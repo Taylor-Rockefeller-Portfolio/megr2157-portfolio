@@ -1,7 +1,7 @@
 # A1 – Professional Portfolio
 
 ## Objective
-
+Throughout the beginning of an engineer's educational journey, they have a course load that requires them to learn about physics and calculus with questions that require them to determine forces within systems or calculate accelerations of given objects under given conditions. It is only once that they are asked to solve a larger problem without a specific "right" answer that they begin to learn what it means to be an engineer. This homepage layout gives a viewer the basis of what principles are being practiced throughout the projects shown in the portfolio and how the projects will build upon themselves throughout the semester. 
 
 ## Analyze
 Portfolio Analysis:
