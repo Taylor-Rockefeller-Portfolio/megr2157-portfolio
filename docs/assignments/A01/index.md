@@ -26,6 +26,8 @@ As shown, the handle of the hammer with the curved claw protrudes far past the h
 Distance from nail to pivot point throughout the nail pulling process, "v" mark place on contact point with wood. This is the point we will be taking the moment about to find the required force to continue to pull the nail.
 The hammer with the curved claw allows for a lower force exerted on the handle of the hammer of the same length. Even with a shorter handle in this instance, the smaller hammer with the curved claw could start to pull the nail with less force than the hammer with the straight claw and longer handle. 
 
+The inventor of the patent is Mou-Tang Liou. This patent, while useful, could be replaced by carrying a crowbar or nail puller in addition to a traditional hammer. Both tools can perform the same job as the adjustable claw hammer for pulling nails, though they can't be used as an effective hammer to drive nails. By viewing the designs on the patent, I am under the impression that Mou-Tang Liou chose to position the release mechanism for the adjustable head just below the head of the hammer in order to protect it from missed blows of the hammer, and to aid in ease of locking and unlocking while working.
+
 
 
 ## Decide
