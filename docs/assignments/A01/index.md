@@ -20,7 +20,7 @@ The product that I am covering is the claw hammer with an adjustable head angle.
 ![Claw hammer angle comparison](IMG_1526.jpg)
 As shown, the handle of the hammer with the curved claw protrudes far past the head of the hammer which hooked to the nail. This is the space constraint mentioned. An example would be a 2x4 stud in the way while trying to pull a nail holding framing in place.
 ![Distance from nail to pivot point throughout the nail pulling process](IMG_1530.jpg)
-![](IMG_1534.jpg)
+![](IMG_1533.jpg)
 ![](IMG_1532.jpg)
 ![](IMG_1535.jpg)
 The hammer with the curved claw allows for a lower force exerted on the handle of the hammer of the same length. Even with a shorter handle in this instance, the smaller hammer with the curved claw could start to pull the nail with less force than the hammer with the straight claw and longer handle. 
