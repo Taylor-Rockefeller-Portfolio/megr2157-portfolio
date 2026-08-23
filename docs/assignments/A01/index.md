@@ -3,6 +3,10 @@
 ## Objective
 Throughout the beginning of an engineer's educational journey, they have a course load that requires them to learn about physics and calculus with questions that require them to determine forces within systems or calculate accelerations of given objects under given conditions. It is only once that they are asked to solve a larger problem without a specific "right" answer that they begin to learn what it means to be an engineer. This homepage layout gives a viewer the basis of what principles are being practiced throughout the projects shown in the portfolio and how the projects will build upon themselves throughout the semester. 
 
+I changed the location of the text "engineering is the art of making decisions you can defend" from the middle of the page to the first line of text after the logo. This is a small change, but I believe that this is the basis of what we are trying to better ourselves at in this course. The breakdown of the design process is important, but in the end, you must be able to explain start to finish why you are choosing a certain pathway, material, or design choice. If there is something I want a reader to pick up on immediately is that the decisions I make are with good reason. 
+
+For every submission that is made throughout the semester, I plan to turn in a product that I could confidently hand to a supervisor or a client and be able to walk either individual through why my product is going to successfully solve the problem at hand. 
+
 ## Analyze
 Portfolio Analysis:
 
