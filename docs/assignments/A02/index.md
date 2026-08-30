@@ -33,9 +33,8 @@ With the geometry of the truss decided I moved onto the statics analysis to find
 Once I found the highest force member, I determined what the minimum cross-sectional area would be for my member. In order to do this, I chose a material that is available on the CAD program I am using, SolidWorks, and found its yield strength. Then I used the required safety factor to find the cross-sectional area. 
 With the cross-sectional area determined I moved to finding the diameter of the pins I would need to connect my members. I used the highest shear force pin location which is the connections with the diagonal member. I then used the supplied yield force and the safety factor of 4 to determine the minimum pin diameter in order to avoid the pin shearing. 
 ![](IMG_1550.jpg)
-![](IMG_1551.jpg)
 With that decided I moved to constructing the CAD models of the members. This is where I realized that I would need to create members of varying lengths and different ends in order to connect to one another. And with one joint having three members coming together I knew that I needed to design a way for three members to connect without making their cross-sectional areas smaller than required.
-
+![](IMG_1551.jpg)
 After designing the appropriate members, I moved to assembling them. This is where I realized that I had designed my members to connect perfectly when straight with one another but not when coming together at an angle. My assembly joints with angled members had parts overlapping one another, so I needed to go back to these parts and modify them in order to maintain structural integrity of the member while also allowing for a connection that would work. 
 ## Communicate
 
