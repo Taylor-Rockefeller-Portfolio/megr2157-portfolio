@@ -36,7 +36,7 @@ With the cross-sectional area determined I moved to finding the diameter of the 
 With that decided I moved to constructing the CAD models of the members. This is where I realized that I would need to create members of varying lengths and different ends in order to connect to one another. And with one joint having three members coming together I knew that I needed to design a way for three members to connect without making their cross-sectional areas smaller than required.
 ![](IMG_1551.jpg)
 After designing the appropriate members, I moved to assembling them. This is where I realized that I had designed my members to connect perfectly when straight with one another but not when coming together at an angle. My assembly joints with angled members had parts overlapping one another, so I needed to go back to these parts and modify them in order to maintain structural integrity of the member while also allowing for a connection that would work. 
-![](Screenshot(212).png)
+![](Screenshot (212).png)
 ![](Screenshot(213).png)
 ![](Screenshot(214).png)
 ![](Screenshot(215).png)
