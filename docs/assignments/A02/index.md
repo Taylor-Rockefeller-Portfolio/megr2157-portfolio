@@ -39,7 +39,7 @@ After designing the appropriate members, I moved to assembling them. This is whe
 ![](Screenshot(212).png)
 ![](Screenshot(213).png)
 ![](Screenshot(214).png)
-![](Screenshot(215).png)
+![](Screenshot(217).png)
 
 ## Communicate
 
