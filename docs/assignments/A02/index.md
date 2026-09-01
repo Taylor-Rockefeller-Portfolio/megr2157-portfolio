@@ -44,6 +44,20 @@ _Which geometry did you select, and why? This is your first open design choice i
 Before conducting any analysis, I first decided on the geometry of the truss I would build. I settled on using an angled member from both supports down to the location that the loads were applied to. Three equal length members run from one support to another, with their pinned connections above the applied loads. This leaves two vertical members connecting the upper cord of the truss to the lower. Using this geometry allows for minimal members to be used, creating a lighter truss. I initially used a truss geometry that mirrors the current design about the axis between the supports and had an additional member that ran vertically down to support the applied load. This was more aesthetically pleasing but used more members and had 4 member joints. The final design will be lighter weight and accomplish the same goal. 
 ![](IMG_0265.PNG)
 ![](IMG_0266.PNG)
+After reassessing the assignment, I realized that I made a mistake when checking the updated assignment constraints. I failed to see that the direction of one of the applied loads had been turned to face upward. I analyzed the current truss geometry and found that it would not satisfy the constraints. I began designing a new truss geometry that is more conventional and will withstand the applied forces in their current state. 
+
+Below is the new overall truss geometry FBD, conducting static analysis to determine reaction forces in terms of the applied force P.
+![](IMG_00269.jpg)
+Conducting internal truss static analysis to determine internal forces on every member. Due to the symmetry of the geometry the loads will be identical in magnitude, but opposite in direction because of the modified loads. Making assumptions on compression and tension before carrying out joint analysis. 
+![](IMG_00270.jpg)
+Solving for internal forces at each joint in terms of applied force P
+![](IMG_00271.jpg)
+![](IMG_00272.jpg)
+![](IMG_00273.jpg)
+Solving for the magnitude of internal forces by substituting my chosen P value. The largest forces are on the two inner diagonal members. One in compression and one in tension. 
+![](IMG_00274.jpg)
+Determining the minimum required cross-sectional area. Rounding down when necessary for the total stress allowed to keep below the safety factor and rounding up on cross-sectional area to have a marginally stronger beam than required. 
+
 
 ## Communicate
 
