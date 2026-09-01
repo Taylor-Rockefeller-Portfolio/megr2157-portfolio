@@ -47,15 +47,15 @@ Before conducting any analysis, I first decided on the geometry of the truss I w
 After reassessing the assignment, I realized that I made a mistake when checking the updated assignment constraints. I failed to see that the direction of one of the applied loads had been turned to face upward. I analyzed the current truss geometry and found that it would not satisfy the constraints. I began designing a new truss geometry that is more conventional and will withstand the applied forces in their current state. 
 
 Below is the new overall truss geometry FBD, conducting static analysis to determine reaction forces in terms of the applied force P.
-![](IMG_00269.jpg)
+![](IMG_0269.jpg)
 Conducting internal truss static analysis to determine internal forces on every member. Due to the symmetry of the geometry the loads will be identical in magnitude, but opposite in direction because of the modified loads. Making assumptions on compression and tension before carrying out joint analysis. 
-![](IMG_00270.jpg)
+![](IMG_0270.jpg)
 Solving for internal forces at each joint in terms of applied force P
-![](IMG_00271.jpg)
-![](IMG_00272.jpg)
-![](IMG_00273.jpg)
+![](IMG_0271.jpg)
+![](IMG_0272.jpg)
+![](IMG_0273.jpg)
 Solving for the magnitude of internal forces by substituting my chosen P value. The largest forces are on the two inner diagonal members. One in compression and one in tension. 
-![](IMG_00274.jpg)
+![](IMG_0274.jpg)
 Determining the minimum required cross-sectional area. Rounding down when necessary for the total stress allowed to keep below the safety factor and rounding up on cross-sectional area to have a marginally stronger beam than required. 
 
 
