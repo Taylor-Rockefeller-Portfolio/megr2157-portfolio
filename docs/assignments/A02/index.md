@@ -43,8 +43,6 @@ With that decided I moved to constructing the CAD models of the members. This is
 
 ![](IMG_1551.jpg)
 
-## Truss Geometry Version 2
-
 After designing the appropriate members, I moved to assembling them. This is where I realized that I had designed my members to connect perfectly when straight with one another but not when coming together at an angle. My assembly joints with angled members had parts overlapping one another, so I needed to go back to these parts and modify them in order to maintain structural integrity of the member while also allowing for a connection that would work. 
 
 ![](Screenshot(212).png)
@@ -52,14 +50,7 @@ After designing the appropriate members, I moved to assembling them. This is whe
 ![](Screenshot(214).png)
 ![](Screenshot(216).png)
 
-
-
-## Truss Geometry and Static Analysis
-
-Before conducting any analysis, I first decided on the geometry of the truss I would build. I settled on using an angled member from both supports down to the location that the loads were applied to. Three equal length members run from one support to another, with their pinned connections above the applied loads. This leaves two vertical members connecting the upper cord of the truss to the lower. Using this geometry allows for minimal members to be used, creating a lighter truss. I initially used a truss geometry that mirrors the current design about the axis between the supports and had an additional member that ran vertically down to support the applied load. This was more aesthetically pleasing but used more members and had 4 member joints. The final design will be lighter weight and accomplish the same goal. 
-
-![](IMG_0265.PNG)
-![](IMG_0266.PNG)
+## Truss Geometry Version 2
 
 After reassessing the assignment, I realized that I made a mistake when checking the updated assignment constraints. I failed to see that the direction of one of the applied loads had been turned to face upward. I analyzed the current truss geometry and found that it would not satisfy the constraints. I began designing a new truss geometry that is more conventional and will withstand the applied forces in their current state.
 
