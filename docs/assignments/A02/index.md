@@ -96,7 +96,7 @@ Evaluating the center pinned connection to find the resultant force on the pin. 
 
 ## Truss and Pin Weight Calculations
 
-Evaluating the expected weight of the truss and pins to compare with the SolidWorks values I get.  
+Evaluating the expected weight of the truss and pins to compare with the SolidWorks values I get. 
 ![](IMG_0280.jpg)
 ![](IMG_0284.JPEG)
 ![](IMG_0285.JPEG)
