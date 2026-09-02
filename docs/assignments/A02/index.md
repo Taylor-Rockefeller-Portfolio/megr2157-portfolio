@@ -127,3 +127,12 @@ https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/head
 Original Truss Design Assembly - 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/So.Design.A2.Truss.Assembly.SLDASM
 
+## 2157 Student Portion
+
+For this portion of the assignment, I must assess the members of the truss and pins to determine how they will fail and why.
+
+## Truss Members
+
+
+
+
