@@ -60,7 +60,7 @@ Below is the new overall truss geometry FBD, conducting static analysis to deter
 
 Conducting internal truss static analysis to determine internal forces on every member. Due to the symmetry of the geometry the loads will be identical in magnitude, but opposite in direction because of the modified loads. Making assumptions on compression and tension before carrying out joint analysis. 
 
-![](IMG_0270.PNG)
+![](0270_1.PNG)
 
 Solving for internal forces at each joint in terms of applied force P
 
