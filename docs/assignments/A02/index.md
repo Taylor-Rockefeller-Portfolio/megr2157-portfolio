@@ -57,7 +57,12 @@ Solving for internal forces at each joint in terms of applied force P
 Solving for the magnitude of internal forces by substituting my chosen P value. The largest forces are on the two inner diagonal members. One in compression and one in tension. 
 ![](IMG_0274.jpg)
 Determining the minimum required cross-sectional area. Rounding down when necessary for the total stress allowed to keep below the safety factor and rounding up on cross-sectional area to have a marginally stronger beam than required. 
-
+![](IMG_0276.jpg)
+![](IMG_0278.jpg)
+![](IMG_0279.jpg)
+![](IMG_0280.jpg)
+![](IMG_0281.jpg)
+![](IMG_0282.jpg)
 
 ## Communicate
 
