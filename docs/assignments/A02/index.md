@@ -116,7 +116,7 @@ Throughout this project I have been challenged to step past purely analyzing giv
 ## CAD Download
 
 Truss - 
-
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/So.Design.A2.Truss.2.0.SLDPRT
 Pin - 
 
 Assembly - 
