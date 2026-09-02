@@ -153,6 +153,7 @@ This member would not experience any forces and would not fail unless additional
 Member DE-
 
 This member would fail due to yielding because it is in tension. This is the member with the highest internal force that is in tension. To avoid yielding the cross-section of the member could be increased. 
+
 Member AD-
 
 This member would fail due to yielding because it is in tension. To avoid this the members cross-section could be increased. 
