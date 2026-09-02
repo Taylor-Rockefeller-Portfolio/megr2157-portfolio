@@ -21,6 +21,8 @@
 
 ## Truss Geometry and Static Analysis
 
+![](IMG_0283.PNG)
+
 Before conducting any analysis, I first decided on the geometry of the truss I would build. I settled on using an angled member from both supports down to the location that the loads were applied to. Three equal length members run from one support to another, with their pinned connections above the applied loads. This leaves two vertical members connecting the upper cord of the truss to the lower. Using this geometry allows for minimal members to be used, creating a lighter truss. I initially used a truss geometry that mirrors the current design about the axis between the supports and had an additional member that ran vertically down to support the applied load. This was more aesthetically pleasing but used more members and had 4 member joints. The final design will be lighter weight and accomplish the same goal. 
 
 ![](IMG_0265.PNG)
@@ -53,6 +55,8 @@ After designing the appropriate members, I moved to assembling them. This is whe
 ## Truss Geometry Version 2
 
 After reassessing the assignment, I realized that I made a mistake when checking the updated assignment constraints. I failed to see that the direction of one of the applied loads had been turned to face upward. I analyzed the current truss geometry and found that it would not satisfy the constraints. I began designing a new truss geometry that is more conventional and will withstand the applied forces in their current state.
+
+![](A2_directions.png)
 
 Below is the new overall truss geometry FBD, conducting static analysis to determine reaction forces in terms of the applied force P.
 
