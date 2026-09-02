@@ -122,6 +122,6 @@ Pin -
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/So.Design.A2.Truss.2.0.Pin.SLDPRT
 
 Assembly - 
-
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A02/So.Design.A2.Truss.2.0.Assembly.SLDASM
 
 
