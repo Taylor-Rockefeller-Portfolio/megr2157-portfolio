@@ -105,6 +105,10 @@ Evaluating the expected weight of the truss and pins to compare with the SolidWo
 
 Creating my second CAD model I am sticking to the basics of the requirements which required the truss members to be modeled as one part so instead of making individual members I am modeling all truss members as one piece. They will have a uniform cross section except at the pinned connections where the cross-section will be enlarged to maintain structural integrity of the truss.
 
+![](Truss_2.0.png)
+![](Truss_pin_2.0.png)
+![](Truss_assembly_2.0.png)
+
 ## Lessons Learned
 
 Throughout this project I have been challenged to step past purely analyzing givens structures and had to create my own truss system to support a load. This is the first time that I have had to solve such a problem, and through failing to check the updated assignment instructions, I had the opportunity to do it twice. This was a great learning experience because it showed me that you can design something to support a specific load, but it can fail when the loading is changed. My new design would support either loading patterns better than the original one. I had the opportunity to further my skills in SolidWorks as well by creating individual members and assembling them and realizing dimensional constraints too late. In the future I will know to adjust my member dimensions to properly fit all joints. 
