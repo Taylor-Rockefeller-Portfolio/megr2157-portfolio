@@ -58,13 +58,19 @@ After reassessing the assignment, I realized that I made a mistake when checking
 
 ![](A2_directions.png)
 
+## Truss Static Analysis
+
 Below is the new overall truss geometry FBD, conducting static analysis to determine reaction forces in terms of the applied force P.
 
 ![](IMG_0269.jpg)
 
+## Internal Truss Member Analysis
+
 Conducting internal truss static analysis to determine internal forces on every member. Due to the symmetry of the geometry the loads will be identical in magnitude, but opposite in direction because of the modified loads. Making assumptions on compression and tension before carrying out joint analysis. 
 
 ![](0270_1.PNG)
+
+## Method of Joints
 
 Solving for internal forces at each joint in terms of applied force P
 
@@ -76,6 +82,8 @@ Solving for the magnitude of internal forces by substituting my chosen P value. 
 
 ![](IMG_0274.jpg)
 
+## Solid Analysis
+
 Determining the minimum required cross-sectional area for the members. Utilizing the largest internal force on a member so that the members will all be within the safety factor given. Rounding down when necessary for the total stress allowed to keep below the safety factor and rounding up on cross-sectional area to have a marginally stronger beam than required. I am using a width of 25mm to have a clean number to dimension my pins with. 
 
 ![](IMG_0275.jpg)
@@ -85,6 +93,8 @@ Evaluating the center pinned connection to find the resultant force on the pin. 
 
 ![](IMG_0278.jpg)
 ![](IMG_0279.jpg)
+
+## Truss and Pin Weight Calculations
 
 Evaluating the expected weight of the truss and pins to compare with the SolidWorks values I get.  
 ![](IMG_0280.jpg)
