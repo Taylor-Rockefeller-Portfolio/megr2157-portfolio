@@ -21,7 +21,7 @@
 
 ## Truss Geometry and Static Analysis
 
-![](IMG_0283.PNG)
+![](IMG_0283.jpg)
 
 Before conducting any analysis, I first decided on the geometry of the truss I would build. I settled on using an angled member from both supports down to the location that the loads were applied to. Three equal length members run from one support to another, with their pinned connections above the applied loads. This leaves two vertical members connecting the upper cord of the truss to the lower. Using this geometry allows for minimal members to be used, creating a lighter truss. I initially used a truss geometry that mirrors the current design about the axis between the supports and had an additional member that ran vertically down to support the applied load. This was more aesthetically pleasing but used more members and had 4 member joints. The final design will be lighter weight and accomplish the same goal. 
 
