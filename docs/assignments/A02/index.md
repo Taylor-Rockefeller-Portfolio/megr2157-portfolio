@@ -109,9 +109,6 @@ Creating my second CAD model I am sticking to the basics of the requirements whi
 ![](Truss_pin_2.0.png)
 ![](Truss_assembly_2.0.png)
 
-## Lessons Learned
-
-Throughout this project I have been challenged to step past purely analyzing givens structures and had to create my own truss system to support a load. This is the first time that I have had to solve such a problem, and through failing to check the updated assignment instructions, I had the opportunity to do it twice. This was a great learning experience because it showed me that a design is better if it has the ability to work in changing conditions. My new design would support either loading patterns better than the original one. I had the opportunity to further my skills in SolidWorks as well by creating individual members and assembling them. I now also have the foresight to dimension the ends of any future members I create to connect at all of the given angles in my design. 
 
 ## CAD Download
 
@@ -133,6 +130,41 @@ For this portion of the assignment, I must assess the members of the truss and p
 
 ## Truss Members
 
+All members would be considered ductile because a36 steel can be put under elastic and plastic deformation without exceeding its ultimate yield strength and fracturing. Therefore, the members are likely to only yield or buckle as opposed to fracturing unless other loads are applied suddenly that allow the ultimate strength to be exceeded. 
 
+![](0270_1.PNG)
 
+Member BC-
 
+This member would fail due to buckling because it is under compression. The member is considerably thinner than it is long. To help avoid buckling the slenderness ratio could be lessened, either by altering the members thickness or by changing the pinned supports to fixed.  
+
+Member BE-
+
+This member would fail due to yielding because it is in tension. The cross section could potentially be enlarged to avoid exceeding its yield strength.
+
+Member CE-
+
+This member would fail due to buckling because it is in compression. This is also one of the two members with the highest internal force. Of those two members, this is most likely to fail first because the other member with identical internal force is in tension. This member is likely to buckle before the other yields. The cross-section of the member could potentially be increased.
+
+Member CD-
+
+This member would not experience any forces and would not fail unless additional loads are applied.
+
+Member DE-
+
+This member would fail due to yielding because it is in tension. This is the member with the highest internal force that is in tension. To avoid yielding the cross-section of the member could be increased. 
+Member AD-
+
+This member would fail due to yielding because it is in tension. To avoid this the members cross-section could be increased. 
+
+Member AE-
+
+This member would fail due to buckling because the member is in compression. This could be avoided by making the members cross-section thicker or by making the support fixed to lower the slenderness ratio.
+
+## Pin Connections
+
+The pins within the truss are most likely to fail due to exceeding their shear absolute strength. They are made of hardened tool steel which while stronger than most other steels is also more brittle. The pinned connections are also mated closely together not allowing for much room between members for the pin to be able to bend. To avoid the pins shearing the design could use double shear connections so the force on the pin could be distributed across two areas. 
+
+## Lessons Learned
+
+Throughout this project I have been challenged to step past purely analyzing givens structures and had to create my own truss system to support a load. This is the first time that I have had to solve such a problem, and through failing to check the updated assignment instructions, I had the opportunity to do it twice. This was a great learning experience because it showed me that a design is better if it has the ability to work in changing conditions. My new design would support either loading patterns better than the original one. I had the opportunity to further my skills in SolidWorks as well by creating individual members and assembling them. I now also have the foresight to dimension the ends of any future members I create to connect at all of the given angles in my design. 
