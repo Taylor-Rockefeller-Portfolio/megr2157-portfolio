@@ -11,12 +11,14 @@
 
 ## Communicate
 
-![](screenshot(223).png)
-![](screenshot(224).png)
-![](screenshot(225).png)
-![](screenshot(226).png)
-![](screenshot(228).png)
-![](screenshot(231).png)
-![](screenshot(233).png)
-![](screenshot(234).png)
+
 ![](screenshot1.png)
+![](screenshot2.png)
+![](screenshot3.png)
+![](screenshot4.png)
+![](screenshot5.png)
+![](screenshot6.png)
+![](screenshot7.png)
+![](screenshot8.png)
+![](screenshot9.png)
+![](screenshot10.png)
