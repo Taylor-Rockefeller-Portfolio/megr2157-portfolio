@@ -55,3 +55,5 @@ I am assuming that the length will increase even with the higher force consideri
 
 ![](s1.png)
 ![](s2.png)
+
+After entering the new values, the length is about 35 inches long and the deformation is still slightly lower than the 0.009 inch deformation value given.
