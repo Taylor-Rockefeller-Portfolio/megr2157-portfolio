@@ -11,10 +11,11 @@
 ## Decide
 ![](screenshot5.png)
 ![](screenshot10.png)
+![](screenshot2.png)
+![](screenshot3.png)
+![](screenshot4.png)
 
 
 ## Communicate
 
-![](screenshot2.png)
-![](screenshot3.png)
-![](screenshot4.png)
+
