@@ -9,17 +9,11 @@
 ![](screenshot9.png)
 
 ## Decide
-
-
-## Communicate
-
-
 ![](screenshot5.png)
-
-
 ![](screenshot10.png)
 
 
+## Communicate
 
 ![](screenshot2.png)
 ![](screenshot3.png)
