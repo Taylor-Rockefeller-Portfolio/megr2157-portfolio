@@ -7,6 +7,8 @@
 
 ## Analyze
 ![](screenshot9.png)
+![](IMG_0286.jpg)
+![](IMG_0287.jpg)
 
 ## Decide
 ![](screenshot5.png)
