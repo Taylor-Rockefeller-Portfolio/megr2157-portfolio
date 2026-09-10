@@ -1,22 +1,22 @@
 # A3 – [Topic]
 
 ## Objective
-
+![](screenshot6.png)
+![](screenshot7.png)
+![](screenshot8.png)
 
 ## Analyze
-
+![](screenshot9.png)
 
 ## Decide
 
 
 ## Communicate
 
-![](screenshot6.png)
-![](screenshot7.png)
-![](screenshot8.png)
+
 ![](screenshot5.png)
 
-![](screenshot9.png)
+
 ![](screenshot10.png)
 
 
