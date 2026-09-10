@@ -19,7 +19,7 @@ The length of the bar by hand calculations is about 11 inches.
 
 ## Decide
 
-The only difficulty that I faced during this assignment was getting the variable equations to calculate properly. I entered all my values in units of inches and the force in pounds of force. When SolidWorks gave me the final length it was incredibly large and wasn't consistent with my hand calculations. I found that I needed to enter my force in units of newtons to gad a similar result. I belive this is due to SolidWorks giving answers to calcuations in millimeters even when the input was in inches. 
+The only difficulty that I faced during this assignment was getting the variable equations to calculate properly. I entered all my values in units of inches and the force in pounds of force. When SolidWorks gave me the final length it was incredibly large and wasn't consistent with my hand calculations. I found that I needed to enter my force in units of newtons to get a similar result. I belive this is due to SolidWorks giving answers to calcuations in millimeters even when the input was in inches. 
 ![](screenshot5.png) 
 ![](screenshot10.png)
 
