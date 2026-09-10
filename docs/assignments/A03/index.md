@@ -54,3 +54,4 @@ I am going to change the diameter from 0.25 inches to 0.5 inches and make the lo
 I am assuming that the length will increase even with the higher force considering the diameter is doubling. 
 
 ![](s1.png)
+![](s2.png)
