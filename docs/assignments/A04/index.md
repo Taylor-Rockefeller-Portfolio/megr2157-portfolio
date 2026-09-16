@@ -14,6 +14,7 @@ material chosen = PLA insert yield stress and Elastic modulus
 
 ![](pla_tens_strength.jpg)
 Allowable stresses and deflections
+![](allowable_forces.jpg)
 
 Feature One<<<
 How to evaluate
