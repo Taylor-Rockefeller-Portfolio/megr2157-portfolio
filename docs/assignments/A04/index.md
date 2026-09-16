@@ -18,10 +18,18 @@ Allowable stresses and deflections
 
 Feature One<<<
 How to evaluate
+For this feature, I will utilize the beam bending equation from the machinery handbook. This will require determining the moment applied to the beam or in this case the first feature of the motor mount, as well as making some assumptions about some of the mount dimensions. These assumptions are based off of the dimensions of the motor to be installed. Dimensions must at a minimum allow for fitment of the motor or allow for additional clearance. 
+
 Knowns and unknowns
+![](f1_given_fbd.jpg)
 sketch
+
 equations
+![](stress_formula)
+![](def_formula.jpg)
 numeric solution
+![](f1_stress.jpg)
+![](f1_deflection_sol.jpg)
 
 Feature two<<<
 How to evaluate
@@ -46,9 +54,9 @@ twenty one fifty seven portion<<<
 ![](f2_knowns.jpg)
 ![](f2_fbd.jpg)
 ![](f2_deflection.jpg)
-![](f1_stress.jpg)
-![](f1_given_fbd.jpg)
-![](f1_deflection_sol.jpg)
+![](f1_stress.jpg)----
+![](f1_given_fbd.jpg)----
+![](f1_deflection_sol.jpg)---
 ![](description_forces.jpg)---
 ![](def_formula.jpg)
 ![](ap_pic.jpg)---
