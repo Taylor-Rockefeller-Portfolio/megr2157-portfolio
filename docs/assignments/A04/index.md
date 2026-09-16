@@ -29,3 +29,4 @@ parametrics to change dimensions quickly, calculations entered incorrectly, easi
 holes for motor
 holes for mount
 twenty one fifty seven portion<<<
+![](motor_dimensions.jpg)
