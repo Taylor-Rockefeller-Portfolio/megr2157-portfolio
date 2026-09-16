@@ -71,7 +71,7 @@ numeric solution
 
 ![](f2_stress_sol.jpg)
 
-![](f2_deflection.jpg)
+![](f2_deflection_sol.jpg)
 
 
 Full sketch of part
