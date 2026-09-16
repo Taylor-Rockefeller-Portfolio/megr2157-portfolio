@@ -3,40 +3,76 @@
 ## Objective
 Design electric motor mount based for given motor and an applied force
 instructions
+
 ![](description_forces.jpg)
+
 ![](2157_instructions.jpg)
 
 appendix photos
+
 ![](motor_dimensions.jpg)
+
 ![](ap_pic.jpg)
+
 material chosen = PLA insert yield stress and Elastic modulus
+
 ![](pla_Emod.jpg)
 
 ![](pla_tens_strength.jpg)
+
 Allowable stresses and deflections
+
 ![](allowable_forces.jpg)
 
 Feature One<<<
+
 How to evaluate
+
 For this feature, I will utilize the beam bending equation from the machinery handbook. This will require determining the moment applied to the beam or in this case the first feature of the motor mount, as well as making some assumptions about some of the mount dimensions. These assumptions are based off of the dimensions of the motor to be installed. Dimensions must at a minimum allow for fitment of the motor or allow for additional clearance. 
 
 Knowns and unknowns
+
 ![](f1_given_fbd.jpg)
+
 sketch
 
 equations
+
 ![](stress_formula.jpg)
+
 ![](def_formula.jpg)
+
 numeric solution
+
 ![](f1_stress.jpg)
+
 ![](f1_deflection_sol.jpg)
 
 Feature two<<<
+
 How to evaluate
+similar to the first feature, this feature will be evaluated with the beam bending formula. For this feature the screw hole closest to the first feature will be where the feature is no longer fixed and is able to deflect. This will be the length utilized in the formula as well as the moment arm changing magnitude. 
+
+![](f2_fbd.jpg)
+
 Knowns and unknowns
+
+![](f2_knowns.jpg)
+
 sketch
+
 equations
+
+![](stress_formula.jpg)
+
+![](def_formula.jpg)
+
 numeric solution
+
+![](f2_stress_sol.jpg)
+
+![](f2_deflection.jpg)
+
 
 Full sketch of part
 
@@ -50,10 +86,10 @@ twenty one fifty seven portion<<<
 ![](pla_Emod.jpg)----
 ![](pla_tens_strength.jpg)-----
 ![](stress_formula)
-![](f2_stress_sol.jpg)
-![](f2_knowns.jpg)
-![](f2_fbd.jpg)
-![](f2_deflection.jpg)
+![](f2_stress_sol.jpg)---
+![](f2_knowns.jpg)---
+![](f2_fbd.jpg)---
+![](f2_deflection.jpg)--
 ![](f1_stress.jpg)----
 ![](f1_given_fbd.jpg)----
 ![](f1_deflection_sol.jpg)---
