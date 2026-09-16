@@ -25,7 +25,7 @@ Knowns and unknowns
 sketch
 
 equations
-![](stress_formula)
+![](stress_formula.jpg)
 ![](def_formula.jpg)
 numeric solution
 ![](f1_stress.jpg)
