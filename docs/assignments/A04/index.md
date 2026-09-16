@@ -3,8 +3,16 @@
 ## Objective
 Design electric motor mount based for given motor and an applied force
 instructions
+![](description_forces.jpg)
+![](2157_instructions.jpg)
+
 appendix photos
+![](motor_dimensions.jpg)
+![](ap_pic.jpg)
 material chosen = PLA insert yield stress and Elastic modulus
+![](pla_Emod.jpg)
+
+![](pla_tens_strength.jpg)
 Allowable stresses and deflections
 
 Feature One<<<
@@ -29,9 +37,9 @@ parametrics to change dimensions quickly, calculations entered incorrectly, easi
 holes for motor
 holes for mount
 twenty one fifty seven portion<<<
-![](motor_dimensions.jpg)
-![](pla_Emod.jpg)
-![](pla_tens_strength.jpg)
+![](motor_dimensions.jpg)----
+![](pla_Emod.jpg)----
+![](pla_tens_strength.jpg)-----
 ![](stress_formula)
 ![](f2_stress_sol.jpg)
 ![](f2_knowns.jpg)
@@ -40,7 +48,7 @@ twenty one fifty seven portion<<<
 ![](f1_stress.jpg)
 ![](f1_given_fbd.jpg)
 ![](f1_deflection_sol.jpg)
-![](description_forces.jpg)
+![](description_forces.jpg)---
 ![](def_formula.jpg)
-![](ap_pic.jpg)
-![](2157_instructions.jpg)
+![](ap_pic.jpg)---
+![](2157_instructions.jpg)-----
