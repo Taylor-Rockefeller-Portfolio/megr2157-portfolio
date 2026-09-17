@@ -92,7 +92,7 @@ twenty one fifty seven portion<<<
 [So.Design.A4.modified.zip](https://github.com/user-attachments/files/32314561/So.Design.A4.modified.zip)
 
 
-![](formula9_16.png)
+![](formulas9_16.png)
 
 ![](part9_16.png)
 
