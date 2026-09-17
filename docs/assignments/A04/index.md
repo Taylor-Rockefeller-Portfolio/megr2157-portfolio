@@ -88,13 +88,19 @@ additional bracing for deflection
 parametrics to change dimensions quickly, calculations entered incorrectly, easily fixed.
 holes for motor
 holes for mount
-twenty one fifty seven portion<<<
+Link to download files-
+
 [So.Design.A4.modified.zip](https://github.com/user-attachments/files/32314561/So.Design.A4.modified.zip)
 
+Using these formulas, I was able to modify my dimensions to try different widths and thicknesses. I added the triangular braces to the motor mount which added width to the features, in turn allowing for a thinner "h" value. I was able to keep the mount quite compact and stay within the safety factor. 
 
 ![](formulas9_16.png)
 
+In hindsight, I realize that I could have positioned the holes for the motor to mount to the part at a different orientation to keep the holes away from the edge of the part. Next time I design something on a square feature with circular cutouts I will know to change the orientation to avoid this. 
+
 ![](part9_16.png)
+
+## 2157 Portion
 
 ![](multiview9_16.png)
 
