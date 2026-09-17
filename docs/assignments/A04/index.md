@@ -79,20 +79,19 @@ Numeric solution- These solutions are using a more complex formula that uses a p
 The thickness when solving for deflection was the higher value, so this is the thickness selected. 
 
 
-Full sketch of part
+Full Sketch
 
 ![](IMG_0307.jpg)
 
-## Cad Model
-additional bracing for deflection
-parametrics to change dimensions quickly, calculations entered incorrectly, easily fixed.
-holes for motor
-holes for mount
+## CAD Model
+
 Link to download files-
 
 [So.Design.A4.modified.zip](https://github.com/user-attachments/files/32314561/So.Design.A4.modified.zip)
 
-Using these formulas, I was able to modify my dimensions to try different widths and thicknesses. I added the triangular braces to the motor mount which added width to the features, in turn allowing for a thinner "h" value. I was able to keep the mount quite compact and stay within the safety factor. 
+
+
+Using these formulas, I was able to modify my dimensions to try different widths and thicknesses. I added the triangular braces to the motor mount which added width to the features, in turn allowing for a thinner "h" value. I was able to keep the mount quite compact and stay within the safety factor. I hadn't taken the braces into account in my hand calculations, so my values for the feature thickness will go down. This is where dimensioning off of variables is handy. 
 
 ![](formulas9_16.png)
 
