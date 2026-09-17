@@ -26,7 +26,7 @@ Allowable stresses and deflections taking into consideration the safety factor o
 
 ![](allowable_forces.jpg)
 
-Feature One<<<
+## Feature One
 
 How to evaluate
 
@@ -51,10 +51,11 @@ Numeric solution- These solutions are using a more complex formula that uses a p
 
 The thickness when solving for stress was the higher value, so this is the thickness selected. 
 
-Feature two<<<
+## Feature two
 
-How to evaluate
-similar to the first feature, this feature will be evaluated with the beam bending formula. For this feature the screw hole closest to the first feature will be where the feature is no longer fixed and is able to deflect. This will be the length utilized in the formula as well as the moment arm changing magnitude. 
+How to evaluate-
+
+Similar to the first feature, this feature will be evaluated with the beam bending formula. For this feature the screw hole closest to the first feature will be where the feature is no longer fixed and is able to deflect. This will be the length utilized in the formula as well as the moment arm changing magnitude. 
 
 ![](f2_fbd.jpg)
 
@@ -63,7 +64,7 @@ Knowns and unknowns/sketch
 ![](f2_knowns.jpg)
 
 
-Manipulating the given beam bending formulas to solve for the "h" component of "I"
+Manipulating the given beam bending formulas to solve for the "h" component of "I", this is the same as feature 1
 
 ![](stress_formula.jpg)
 
@@ -75,12 +76,14 @@ Numeric solution- These solutions are using a more complex formula that uses a p
 
 ![](f2_deflection_sol.jpg)
 
-The thickness when solving for stress was the higher value, so this is the thickness selected. 
+The thickness when solving for deflection was the higher value, so this is the thickness selected. 
 
 
 Full sketch of part
 
-Cad Model<<<
+![](IMG_0307.jpg)
+
+## Cad Model
 additional bracing for deflection
 parametrics to change dimensions quickly, calculations entered incorrectly, easily fixed.
 holes for motor
