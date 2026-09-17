@@ -82,7 +82,8 @@ parametrics to change dimensions quickly, calculations entered incorrectly, easi
 holes for motor
 holes for mount
 twenty one fifty seven portion<<<
-"C:\Users\trock\OneDrive\Desktop\So.Design.A4.modified.SLDPRT"
+
+
 ![](motor_dimensions.jpg)----
 ![](pla_Emod.jpg)----
 ![](pla_tens_strength.jpg)-----
