@@ -1,10 +1,12 @@
 # A4 – Electric Motor Mount Design
 
 ## Objective
-Design electric motor mount based for given motor and an applied force
-instructions
+Design electric motor mount for given motor with an applied force
+
+The option is given to select a material from the given list. I am choosing PLA for this project.
 
 ![](description_forces.jpg)
+
 
 ![](2157_instructions.jpg)
 
@@ -14,13 +16,13 @@ appendix photos
 
 ![](ap_pic.jpg)
 
-material chosen = PLA insert yield stress and Elastic modulus
+With PLA being my material of choice I sourced these values from the given link. I used the lower values that are valid at higher temperatures as I don't know the operating conditions that the motor and mount will be subjected to. 
 
 ![](pla_Emod.jpg)
 
 ![](pla_tens_strength.jpg)
 
-Allowable stresses and deflections
+Allowable stresses and deflections taking into consideration the safety factor of three
 
 ![](allowable_forces.jpg)
 
@@ -28,25 +30,26 @@ Feature One<<<
 
 How to evaluate
 
-For this feature, I will utilize the beam bending equation from the machinery handbook. This will require determining the moment applied to the beam or in this case the first feature of the motor mount, as well as making some assumptions about some of the mount dimensions. These assumptions are based off of the dimensions of the motor to be installed. Dimensions must at a minimum allow for fitment of the motor or allow for additional clearance. 
+For this feature, I will utilize the beam bending equation from the machinery handbook. This will require determining the moment applied to the beam or in this case the first feature of the motor mount, as well as making some assumptions about some of the mount dimensions. These assumptions are based off of the dimensions of the motor to be installed. Dimensions must at a minimum allow for fitment of the motor or allow for additional clearance. After making these assumptions, I am able to solve for one independent variable, the thickness of the feature. 
 
-Knowns and unknowns
+Knowns and unknowns/sketch
 
 ![](f1_given_fbd.jpg)
 
-sketch
 
-equations
+Manipulating the given beam bending formulas to solve for the "h" component of "I"
 
 ![](stress_formula.jpg)
 
 ![](def_formula.jpg)
 
-numeric solution
+Numeric solution- These solutions are using a more complex formula that uses a portion of the thickness of the beam as the distance of the applied force. I switched to the simpler formula shown above when using SolidWorks and creating parametric relationships. 
 
 ![](f1_stress.jpg)
 
 ![](f1_deflection_sol.jpg)
+
+The thickness when solving for stress was the higher value, so this is the thickness selected. 
 
 Feature two<<<
 
@@ -55,23 +58,24 @@ similar to the first feature, this feature will be evaluated with the beam bendi
 
 ![](f2_fbd.jpg)
 
-Knowns and unknowns
+Knowns and unknowns/sketch
 
 ![](f2_knowns.jpg)
 
-sketch
 
-equations
+Manipulating the given beam bending formulas to solve for the "h" component of "I"
 
 ![](stress_formula.jpg)
 
 ![](def_formula.jpg)
 
-numeric solution
+Numeric solution- These solutions are using a more complex formula that uses a portion of the thickness of the beam as the distance of the applied force. I switched to the simpler formula shown above when using SolidWorks and creating parametric relationships. 
 
 ![](f2_stress_sol.jpg)
 
 ![](f2_deflection_sol.jpg)
+
+The thickness when solving for stress was the higher value, so this is the thickness selected. 
 
 
 Full sketch of part
