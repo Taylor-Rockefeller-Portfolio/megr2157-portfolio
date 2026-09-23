@@ -1,13 +1,18 @@
-# A5 – [Topic]
+# A5 – Designing a Bracket for Strength and Stiffness
 
 ## Objective
 
 
-## Analyze
+## Stress Analysis
+
+## Stiffness Analysis
+
+## Sketches
+
+## Lessons Learned
+
+## Fits (2157 only)
 
 
-## Decide
 
-
-## Communicate
-
+![](IMG_0311.jpg)
