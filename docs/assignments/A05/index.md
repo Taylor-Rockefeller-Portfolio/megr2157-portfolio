@@ -40,9 +40,25 @@
 ![](IMG_0323.jpg)
 
 ![](IMG_0324.jpg)
-![](IMG_0325.jpg)
+
 
 ## Stiffness Analysis
+
+# Allowable Deflection
+
+![](IMG_0325.jpg)
+![](IMG_0326.jpg)
+![](IMG_0327.jpg)
+![](IMG_0328.jpg)
+![](IMG_0329.jpg)
+![](IMG_0330.jpg)
+![](IMG_0331.jpg)
+![](IMG_0332.jpg)
+![](IMG_0333.jpg)
+![](IMG_0334.jpg)
+![](IMG_0335.jpg)
+![](IMG_0336.jpg)
+
 
 ## Sketches
 
