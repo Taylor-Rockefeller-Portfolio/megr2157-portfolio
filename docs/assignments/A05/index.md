@@ -3,8 +3,22 @@
 ## Objective
 ![](IMG_0311.jpg)
 ![](IMG_0312.jpg)
-![](IMG_0315.jpg)
+
 ## Stress Analysis
+![](IMG_0315.jpg)
+![](IMG_0313.jpg)
+![](IMG_0314.jpg)
+![](IMG_0315.jpg)--
+![](IMG_0316.jpg)
+![](IMG_0317.jpg)
+![](IMG_0318.jpg)
+![](IMG_0319.jpg)
+![](IMG_0320.jpg)
+![](IMG_0321.jpg)
+![](IMG_0322.jpg)
+![](IMG_0323.jpg)
+![](IMG_0324.jpg)
+![](IMG_0325.jpg)
 
 ## Stiffness Analysis
 
