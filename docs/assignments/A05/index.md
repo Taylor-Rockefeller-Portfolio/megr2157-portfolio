@@ -88,9 +88,9 @@ Analysis method given in instructions
 
 ## Feature E
 
-![](IMG_0334.  jpg)
+![](IMG_0337.jpg)
 
-![](IMG_0335.  jpg)
+![](IMG_0338.jpg)
 
 
 
