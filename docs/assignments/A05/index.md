@@ -1,6 +1,8 @@
 # A5 – Designing a Bracket for Strength and Stiffness
 
 # Objective
+
+The objective, as seen below, is to design a bracket to allow the T beam to support the load of a strap. The bracket will be designed with a safety factor of 4 and will be governed by axial and normal bending forces. My material, chosen from the approved list, will be A36 steel. 
 ![](IMG_0311.jpg)
 ![](IMG_0312.jpg)
 
@@ -11,17 +13,23 @@
 
 ## Feature A
 
+Analysis method given in instructions
+
 ![](IMG_0313.jpg)
 
 ![](IMG_0314.jpg)
 
 ## Feature B
 
+Analysis method given in instructions
+
 ![](IMG_0316.jpg)
 
 ![](IMG_0317.jpg)
 
 ## Feature C
+
+Analysis method given in instructions
 
 ![](IMG_0318.jpg)
 
@@ -50,17 +58,23 @@
 
 ## Feature A
 
+Analysis method given in instructions
+
 ![](IMG_0326.jpg)
 
 ![](IMG_0327.jpg)
 
 ## Feature B
 
+Analysis method given in instructions
+
 ![](IMG_0328.jpg)
 
 ![](IMG_0329.jpg)
 
 ## Feature C
+
+Analysis method given in instructions
 
 ![](IMG_0330.jpg)
 
