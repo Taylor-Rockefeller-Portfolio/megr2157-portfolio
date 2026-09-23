@@ -1,8 +1,9 @@
 # A5 – Designing a Bracket for Strength and Stiffness
 
 ## Objective
-
-
+![](IMG_0311.jpg)
+![](IMG_0312.jpg)
+![](IMG_0315.jpg)
 ## Stress Analysis
 
 ## Stiffness Analysis
@@ -15,11 +16,11 @@
 
 
 
-![](IMG_0311.jpg)
-![](IMG_0312.jpg)
+![](IMG_0311.jpg)--
+![](IMG_0312.jpg)--
 ![](IMG_0313.jpg)
 ![](IMG_0314.jpg)
-![](IMG_0315.jpg)
+![](IMG_0315.jpg)--
 ![](IMG_0316.jpg)
 ![](IMG_0317.jpg)
 ![](IMG_0318.jpg)
