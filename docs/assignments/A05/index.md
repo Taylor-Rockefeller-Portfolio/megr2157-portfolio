@@ -8,7 +8,6 @@
 ![](IMG_0315.jpg)
 ![](IMG_0313.jpg)
 ![](IMG_0314.jpg)
-![](IMG_0315.jpg)--
 ![](IMG_0316.jpg)
 ![](IMG_0317.jpg)
 ![](IMG_0318.jpg)
