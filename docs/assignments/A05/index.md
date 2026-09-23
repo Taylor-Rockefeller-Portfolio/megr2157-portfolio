@@ -5,17 +5,40 @@
 ![](IMG_0312.jpg)
 
 ## Stress Analysis
+# Material selection and allowable stress calculation
+
 ![](IMG_0315.jpg)
+
+# Feature A
+
 ![](IMG_0313.jpg)
+
 ![](IMG_0314.jpg)
+
+# Feature B
+
 ![](IMG_0316.jpg)
+
 ![](IMG_0317.jpg)
+
+# Feature C
+
 ![](IMG_0318.jpg)
+
 ![](IMG_0319.jpg)
+
+# Feature D
+
 ![](IMG_0320.jpg)
+
 ![](IMG_0321.jpg)
+
+# Feature E
+
 ![](IMG_0322.jpg)
+
 ![](IMG_0323.jpg)
+
 ![](IMG_0324.jpg)
 ![](IMG_0325.jpg)
 
