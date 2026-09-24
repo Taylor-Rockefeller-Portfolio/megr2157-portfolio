@@ -45,9 +45,8 @@ Analysis method given in instructions
 
 ![](IMG_0322.jpg)
 
-![](IMG_0323.jpg)
 
-![](IMG_0324.jpg)
+![](IMG_0340.jpg)
 
 
 # Stiffness Analysis
