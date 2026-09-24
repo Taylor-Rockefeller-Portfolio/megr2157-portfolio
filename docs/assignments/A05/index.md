@@ -98,7 +98,20 @@ Analysis method given in instructions
 
 # Lessons Learned
 
-# Fits (2157 only)
+Governing Failure Modes:
+
+For feature A, the stress analysis gave a minimum diameter of about 0.75 inches, while the deflection analysis showed just under 0.5 inches. This was one of the largest differences in size that I found in my analysis. 
+
+Error Propogation:
+
+While solving some of the features in variable format, I canceled some values to clean up the equation, which caused me to mix up the forces "w" and "w/2" because I was uncertain of whether or not the 1/2 had been canceled or if I needed to plug in the full value. 
+
+Assumption Sensitivity:
+
+If my material chosen were to change, all of my values would shift either larger or smaller depending on my choice. 
+
+
+# Fits (2157 only
 
 ## Dimensional Analysis
 
