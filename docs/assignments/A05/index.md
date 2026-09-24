@@ -94,6 +94,8 @@ Analysis method given in instructions
 
 # Sketches
 
+![](IMG_1593.jpg)
+
 # Lessons Learned
 
 Governing Failure Modes:
