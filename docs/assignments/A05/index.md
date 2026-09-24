@@ -125,4 +125,5 @@ The hole should be sized to allow for a running/sliding fit. With this informati
 
 This hole calls for light assembly pressure. For this I referenced the FN class of fits, in this class the FN1 is described as "Light drive fits are those requiring light assembly pressure" Page 652. For the tolerance amount I referenced table 11 and the tolerance for one inch is (+) 0.5 thousandths. I will add this to the one-inch diameter. To manufacture this, you would need to use at least a reamer, if not a more precise procedure because it is a grade 6. 
 
+### Time to Complete: 4 Hours
 
