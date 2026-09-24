@@ -43,7 +43,6 @@ Analysis method given in instructions
 
 ## Feature E
 
-![](IMG_0322.jpg)
 
 
 ![](IMG_0340.jpg)
