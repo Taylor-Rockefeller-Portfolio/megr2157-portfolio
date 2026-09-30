@@ -1,6 +1,8 @@
-# A6 – [Topic]
+# A6 – Multiview Drawing
 
 ## Objective
+
+For this assignment I need to create a Multiview drawing of the A5 assignment. The drawing must be dimensioned with appropriate tolerances to match the fitment cases described in the original A5 assignment. 
 
 ![](IMG_0342.jpg)
 
@@ -18,13 +20,23 @@
 
 
 
-## Analyze
+## Parametric Design
 
 
-## Decide
+## Drawing
 
 
-## Communicate
+## Reflections
+
+
+## 2157 Assignment (Drawings)
+
+# Parametric Design
+
+# Drawing
+
+# Reflections
+
 
 ![](IMG_1600.jpg)
 ![](IMG_1601.jpg)
