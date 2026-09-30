@@ -22,6 +22,14 @@ For this assignment I need to create a Multiview drawing of the A5 assignment. T
 
 ## Parametric Design
 
+The variables and equations shown below were created in assignment A5 in order to dimension the part parametrically. The selected equations were the thickest minimum required dimensions when evaluating for maximum stress and deflection. 
+
+The equation for the variable "d3" is written below as it does not show fully on the image. 
+
+= ( ( "W" * "l3" * 3 ) / ( "b3" * "stressAllowable" * 2 ) ) ^ ( 1 / 2 )
+
+![](screenshot(255).png)
+
 
 ## Drawing
 
