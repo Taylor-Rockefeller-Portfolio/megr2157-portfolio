@@ -48,6 +48,12 @@ The dimensions of the fits vary in size and in their individual fits. I assessed
 
 ![](IMG_1602.jpg)
 
+![](IMG_0347.jpg)
+
+![](IMG_0348.jpg)
+
+![](IMG_0349.jpg)
+
 
 
 ## Reflections
