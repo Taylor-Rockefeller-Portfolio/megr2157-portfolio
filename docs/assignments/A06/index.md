@@ -88,17 +88,10 @@ https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/head
 
 # Reflections
 
+Through completing this portion of the project, I was able to dimension holes for additional fit types and classes as well as for nominal parts and other designed parts. 
+
+Through marking tighter tolerances on the drawing I was able to emphasize where there more care needs to be taken during manufacturing. All other non-vital dimensions are left to the standard tolerances, which the safety factor will protect against failure. 
 
 
-![](IMG_1600.jpg)
-![](IMG_1601.jpg)
-![](IMG_1602.jpg)
-![](screenshot(255).png)
-![](IMG_0342.jpg)
-![](IMG_0343.jpg)
-![](IMG_0344.jpg)
-![](IMG_0345.jpg)
-![](IMG_0346.jpg)
-![](Screenshot(256).png)
 
 
