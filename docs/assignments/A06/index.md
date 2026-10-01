@@ -75,7 +75,9 @@ For this part I found the critical dimension that I need to design my part aroun
 
 # Drawing
 
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A06/So.Design.A6.2157.SLDPRT
 
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A06/So.Design.A6.2157.Drawing.SLDDRW
 
 # Reflections
 
