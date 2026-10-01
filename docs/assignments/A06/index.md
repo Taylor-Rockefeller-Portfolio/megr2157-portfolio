@@ -33,6 +33,22 @@ The equation for the variable "d3" is written below as it does not show fully on
 
 ## Drawing
 
+Below are the given dimensions of the T beam that the part will contact. The descriptions of clearances are found in Machinery's Handbook on page 651 and the accompanying tables with this fit class are on pages 654 and 655. The T beam requires various levels of sliding fits. The "a","b",and "c" dimensions are labeled with their appropriately described fits. 
+
+
+![](Screenshot(256).png)
+
+![](IMG_1600.jpg)
+
+
+The dimensions of the fits vary in size and in their individual fits. I assessed each dimension of the T beam individually and determined what dimension range on the bracket would allow for the proper tolerances. The tolerances will be shown on the Multiview drawing to enable manufacturing of the part to the proper specifications. 
+
+
+![](IMG_1601.jpg)
+
+![](IMG_1602.jpg)
+
+
 
 ## Reflections
 
