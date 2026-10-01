@@ -66,6 +66,10 @@ This is the equation for the dimension of the thickness of "Feature C", which is
 
 For all of the mating surfaces I applied tighter than the standard tolerances listed on the drawing. I did this to maintain fit class requirements. All other dimensions have a much lower level of precision. (usually two decimal places) I did this to allow for ease of manufacture as those faces of the part do not come into contact with the T beam or the applied load. Only drastic changes to these dimensions would have an effect on the integrity of the bracket. But the standard tolerances will keep the bracket far from the true point of failure becaue of the robust safety factor. 
 
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A06/So.Design.A6.SLDPRT
+
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A06/So.Design.A6.Multiview.SLDDRW
+
 
 ## 2157 Assignment (Drawings)
 
