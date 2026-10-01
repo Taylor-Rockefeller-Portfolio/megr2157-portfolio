@@ -77,7 +77,7 @@ https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/head
 
 For this part I found the critical dimension that I need to design my part around which was the minimum thickness due to allowable stress. I found that a cross-sectional area of 1/9 in^2 was acceptable. Using a standard 1/4" thickness I allow the width of the part to be determined. Once the largest hole diameter is determined I will know the width. My holes diameters are driven by the parametric size of the bracket and by the fitment class required of both holes. The upper hole that connects to the bracket will have a running/sliding fit (RC class), while the lower hole will have light assembly pressure (FN1). For the upper hole, the diameter currently is about 0.75 inches. As long as the diameter stays within 0.71 to 1.19 the hole needs to have a one-sided tolerance of (+) 1.2 thousandths. This is in line with an RC5 class, which will be a middle ground of precisions and ease of assembly. The lower hole will be 1" (+) 0.0005. This is based off of the 1" shaft and a fit class of FN1.
 
-![](screenshot(257).png)
+![](Screenshot(257).png)
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A06/So.Design.A6.2157.SLDPRT
 
