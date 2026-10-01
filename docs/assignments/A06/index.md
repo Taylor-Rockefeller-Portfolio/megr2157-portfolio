@@ -41,7 +41,7 @@ Below are the given dimensions of the T beam that the part will contact. The des
 ![](IMG_1600.jpg)
 
 
-The dimensions of the fits vary in size and in their individual fits. I assessed each dimension of the T beam individually and determined what dimension range on the bracket would allow for the proper clearances. The tolerances will be shown on the Multiview drawing to enable manufacturing of the part to the proper specifications. 
+The dimensions of the fits vary in size and in their individual fits. I assessed each dimension of the T beam individually and determined what dimension range on the bracket would allow for the proper clearances. I found these dimension ranges by finding the tolerance that the T beam is manufactured to and the proper clearance for their fit classes. With this information I was able to create a range of dimension of the bracket that allowed their fitment relationship to stay within the allowed range with either parts maximum or minimum sizes. The tolerances will be shown on the Multiview drawing to enable manufacturing of the part to the proper specifications. 
 
 
 ![](IMG_1601.jpg)
