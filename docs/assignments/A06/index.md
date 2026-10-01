@@ -75,6 +75,8 @@ For this part I found the critical dimension that I need to design my part aroun
 
 # Drawing
 
+
+
 # Reflections
 
 
