@@ -87,7 +87,7 @@ After completing FEA cycle one I learned that using simple calculations for memb
 
 I have spent about 8 hours total on this assignment. Most of which was in capturing and combining images as well as excel documentation. 
 
-## 2157 Portion-
+# 2157 Portion-
 
 For this portion of the assignment, a SolidWorks part was assigned, and the same three studies must be completed. The part is made of 1020 steel and has a mass of 474 kg. Study 1 will test the original design and then I will improve upon it to increase its strength and reduce its weight. 
 
