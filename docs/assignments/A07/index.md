@@ -20,8 +20,10 @@ The part is constrained by a fixed connection at feature E as shown below
 Load-
 The load is 1000 pounds of force distributed across feature A uniformly, as shown above.
 
+Calculations-
+The calculations for convergence were all solved using excel to eliminate human error. The equation as provided by the lecture powerpoint can be seen below.
 
-
+ 
 
 
 ## Study 1 (Original Design Testing)
