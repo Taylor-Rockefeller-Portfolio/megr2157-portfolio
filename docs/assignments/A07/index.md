@@ -3,6 +3,7 @@
 Objective
 
 Study Constraints and Loads
+![](combined-image(6).jpg)
 
 Study 1 (Original Design Testing)
 
@@ -21,7 +22,7 @@ Study 3 (Fillet Added)
 ![](combined-image(5).jpg)
 
 
-![](combined-image(6).jpg)
+
 
 
 ![](combined-image(7).jpg)
