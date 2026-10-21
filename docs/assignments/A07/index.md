@@ -48,6 +48,13 @@ Study 3 Geometric Changes- The failure point in study 2 was the joint between fe
 ![](study_3_attempt.png)
 ![](study_3_excel.jpg)
 
+Below are the results from study three. These are taken from the enlarged fillet model. They show improvements in the failure points of study two but also show where improvements can still be made. If further iterations are completed, these stress and deflection maximums are where I would target improvements. 
+
+![](study_three(1))
+![](study_three(2))
+![](study_three(3))
+![](study_three(4))
+
 2157 Portion-
 
 
