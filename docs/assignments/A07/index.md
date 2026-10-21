@@ -78,6 +78,8 @@ Below are the results from the three FEA iterations. Throughout the process, the
 
 ![](Results_table.png)
 
+Below is the link to download both the original part and the additional part along with their FEA study. 
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A07/A7_Additional_part.zip
 
 
