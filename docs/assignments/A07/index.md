@@ -110,3 +110,5 @@ study 2
 
 ![](study_22_courseandfine(1).jpg)
 
+![](study_22_course.jpg)
+
