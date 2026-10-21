@@ -2,7 +2,10 @@
 
 Objective
 
-Study Constraints and Loads
+## Study Constraints and Loads
+
+For each iteration of FEA studies, the part is constrained by a fixed connection at feature E as shown below. The load is 1000 pounds of force distributed across feature A uniformly, as shown below. 
+
 ![](combined-image(6).jpg)
 
 Study 1 (Original Design Testing)
