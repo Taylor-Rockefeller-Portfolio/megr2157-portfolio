@@ -101,6 +101,8 @@ While conducting study 1 I started with a course mesh and collected data and the
 
 ![](study_11_excel.png)
 
+![](study_11_medium.jpg)
+
 ![](study_22_courseandfine(1).jpg)
 
 ![](study_22_courseandfine(2).jpg)
