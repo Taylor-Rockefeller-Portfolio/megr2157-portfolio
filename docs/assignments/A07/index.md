@@ -23,7 +23,7 @@ The load is 1000 pounds of force distributed across feature A uniformly, as show
 Calculations-
 The calculations for convergence were all solved using excel to eliminate human error. The equation as provided by the lecture powerpoint can be seen below.
 
- ![](calculations.png)
+ ![](calculations.jpg)
 
 
 ## Study 1 (Original Design Testing)
