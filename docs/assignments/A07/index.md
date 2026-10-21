@@ -105,12 +105,18 @@ While conducting study 1 I started with a course mesh and collected data and the
 
 ![](study_22_courseandfine(2).jpg)
 
-study 2
+## Study 2
+
+With the geometry change determined in study 1, I once again created a course mesh and evaluated it, then moved on to a medium mesh. The results converged and I used them to determine the geometric change for the next study. 
 
 ![](study_22_excel.png)
 
 ![](study_22_courseandfine(1).jpg)
 
 ![](study_22_course.jpg)
+
+## Study 3
+
+For study 3, the geometric changes were to reduce weight in the part. I did this by removing material where the part was under less stress. Since the beam that attaches to the wall is not experiencing a force perpendicular to the one applied, I am going to cut a slot in the beam along its neutral axis. 
 
 
