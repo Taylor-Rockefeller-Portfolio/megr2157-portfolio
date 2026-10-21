@@ -71,6 +71,10 @@ Below are the results from study three. These are taken from the enlarged fillet
 ![](study_three(3).jpg)
 ![](study_three(4).jpg)
 
+
+## Results 
+
+![](Results_table.png)
 2157 Portion-
 
 
