@@ -107,7 +107,7 @@ While conducting study 1 I started with a course mesh and collected data and the
 
 study 2
 
-![](study_22_excel.jpg)
+![](study_22_excel.png)
 
 ![](study_22_courseandfine(1).jpg)
 
