@@ -99,11 +99,14 @@ Through the three iterations of the study the part will change in dimensions, bu
 
 While conducting study 1 I started with a course mesh and collected data and then moved to a medium mesh and collected data as well. The data converged so I used this data to draw a conclusion on how to improve the part. The part has high stress concentration near the support and deflects greatly because of that. I will remedy this by taking an equal amount of material from the end of the beam with the plate attached and moving it near the support. This will keep the mass the same and increase strength and decrease deflection which will in turn increase the factor of safety. The different mesh results are below as well as the convergence data calculated on excel.
 
-![](study_11_excel.png)
+![](Study_11_excel.png)
 
 ![](study_11_medium.jpg)
 
-![](study_22_courseandfine(1).jpg)
-
 ![](study_22_courseandfine(2).jpg)
+
+study 2
+
+
+![](study_22_courseandfine(1).jpg)
 
