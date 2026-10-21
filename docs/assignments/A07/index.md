@@ -8,11 +8,21 @@ Below is the final model of the part after three iterations of FEA. The model ha
 
 ![](Part_Features_Diagram.png)
 
-## Overall Study Constraints and Loads
+## Overall Study Information
 
-For each iteration of FEA studies, the part is constrained by a fixed connection at feature E as shown below. The load is 1000 pounds of force distributed across feature A uniformly, as shown below. 
+Below is information that pertains to all iterations of the FEA
+
+Fixtures-
+The part is constrained by a fixed connection at feature E as shown below
 
 ![](combined-image(6).jpg)
+
+Load-
+The load is 1000 pounds of force distributed across feature A uniformly, as shown above.
+
+
+
+
 
 ## Study 1 (Original Design Testing)
 
