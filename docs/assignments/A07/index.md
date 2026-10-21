@@ -12,6 +12,8 @@ For each iteration of FEA studies, the part is constrained by a fixed connection
 
 Study 1 (Original Design Testing)
 
+Once constraints and loads were set, I began by creating a course mesh and running the study. I proceeded to create more mesh sized with varying element counts and checking the convergence. I completed multiple convergence tests between the mesh sizes. Finally resulting in the use of the fine mesh data with 64,232 elements. The convergence tests and the results of the multiple mesh tests are available below.
+
 ![](combined-image(3).jpg)
 
 
