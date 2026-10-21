@@ -33,6 +33,8 @@ The image below shows the point of maximum stress and deflection on study 1. The
 
 Study 2 Geometric Changes- The major failure of the part during study 1 was the deflection of feature A. In order to minimize deflection I am adding another support opposite of feature B that will make feature A behave more like a beam fixed at both ends as opposed to a cantilever beam. 
 
+![](study_2_excel)
+
 Study 3 (Fillet Added)
 
 Study 3 Geometric Changes- The failure point in study 2 was the joint between feature B and feature C. Particularly in the outer most edges. To combat this, I am adding a fillet at those joints. I made radius changes to the fillet after beginning study 3 when I realized that a large radius would be required to lower stresses and increase the safety factor. 
