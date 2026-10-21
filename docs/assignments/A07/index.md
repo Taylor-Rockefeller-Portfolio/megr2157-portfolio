@@ -80,11 +80,11 @@ Below are the results from the three FEA iterations. Throughout the process, the
 
 ## Lessons Learned
 
-After completing FEA cycle one I learned that using simple calculations for member dimensions doesn't always tell the whole story. Simulations are required to test design theory to ensure that your assumptions are correct. After completing the first iteration I changed the model to add an additional feature B. This gave me trouble as the feature appeared to be identical to feature B but did not attach in the same manner. This can be seen in the model shown in study 2. This gave errors when conducting the study as Feature A still bent like a cantilever beam away from the additional support that was added instead of being connected. I had to redesign the additional support in order for the study to recognize it. 
+After completing FEA cycle one I learned that using simple calculations for member dimensions doesn't always tell the whole story. Simulations are required to test design theory to ensure that your assumptions are correct. After completing the first iteration I changed the model to add an additional feature B. This gave me trouble as the feature appeared to be identical to feature B but did not attach in the same manner. This can be seen in the model shown in study 2. This gave errors when conducting the study as Feature A still bent like a cantilever beam away from the additional support that was added instead of being connected. I had to redesign the additional support in order for the study to recognize it. Furthermore, when completing finer mesh models, the time required significantly increased. Leaving me waiting for results. 
 
 ## Time spent
 
-I have spent about 6 hours total on this assignment. Most of which was in capturing and combining images as well as excel documentation. 
+I have spent about 8 hours total on this assignment. Most of which was in capturing and combining images as well as excel documentation. 
 
 2157 Portion-
 
