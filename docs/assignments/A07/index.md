@@ -3,17 +3,20 @@
 ## Assignment Objective
 
 ![](Assignment_Objective.png)
+
+Below is the final model of the part after three iterations of FEA. The model has been marked for easy identification of features throughout the assignment. When a feature is referenced, it will be with regards to the image below. 
+
 ![](Part_Features_Diagram.png)
 
-## Study Constraints and Loads
+## Overall Study Constraints and Loads
 
 For each iteration of FEA studies, the part is constrained by a fixed connection at feature E as shown below. The load is 1000 pounds of force distributed across feature A uniformly, as shown below. 
 
 ![](combined-image(6).jpg)
 
-Study 1 (Original Design Testing)
+## Study 1 (Original Design Testing)
 
-Once constraints and loads were set, I began by creating a course mesh and running the study. I proceeded to create more mesh sizes with varying element counts and checking the convergence. I completed multiple convergence tests between the mesh sizes. Finally resulting in the use of the fine mesh data with 64,232 elements. The convergence tests and the results of the multiple mesh tests are available below. The fine mesh data is highlighted green.
+Once constraints and loads were set, I began by creating a course mesh and running the study. I proceeded to create more mesh sizes with varying element counts and checking the convergence. I completed multiple convergence tests between the mesh sizes. After conducting three convergence testing cycles the final data was from the fine mesh with 64,232 elements. The convergence tests and the results of the multiple mesh tests are available below. The fine mesh data is highlighted green. The required 7% convergence was not met on all perameters.
 
 ![](study_1_excel.jpg)
 
@@ -34,7 +37,7 @@ After completing the first study it was apparent that the original formulas used
 
 ## Study 2 (Second Vertical Support Added)
 
-Study 2 Geometric Changes- The major failure of the part during study 1 was the deflection of feature A. In order to minimize deflection, I am adding another support opposite of feature B that will make feature A behave more like a beam fixed at both ends as opposed to a cantilever beam. This will lower the bending of feature B which was the location of maximum stress. 
+Study 2 Geometric Changes- The major failure of the part during study 1 was the deflection of feature A. In order to minimize deflection, I am adding another support opposite of feature B that will make feature A behave more like a beam fixed at both ends as opposed to a cantilever beam. This will lower the bending of feature B which was the location of maximum stress. The same meshing process as before was used here. Beginning with a course mesh and creating more meshes from there and testing for convergence. Ultimately, the final data values used were from the medium course mesh with 2,949 elements after running three convergence test cycles. The required 7% convergence was not met on all perameters.
 
 ![](study_2_excel.jpg)
 ![](study_2_screenshots(4).jpg)
@@ -43,9 +46,9 @@ Study 2 Geometric Changes- The major failure of the part during study 1 was the 
 ![](study_2_screenshots(7).jpg)
 ![](study_2_Geometry.png)
 
-Study 3 (Fillet Added)
+## Study 3 (Fillet Added)
 
-Study 3 Geometric Changes- The failure point in study 2 was the joint between feature B and feature C. Particularly in the outer most edges. To combat this, I am adding a fillet at those joints. I made radius changes to the fillet after beginning study 3 when I realized that a large radius would be required to lower stresses and increase the safety factor. 
+Study 3 Geometric Changes- The failure point in study 2 was the joint between feature B and feature C. Particularly in the outer most edges. To combat this, I am adding a fillet at those joints. I made radius changes to the fillet after beginning study 3 when I realized that a large radius would be required to lower stresses and increase the safety factor. Mesh process was the same as the prior studies. Starting with a course mesh and creating other mesh configurations to find convergence. The final data used was from the medium course mesh with 2,723 elements. The required 7% convergence was not met on all perameters.
 ![](study_3_attempt.png)
 ![](study_3_excel.jpg)
 
