@@ -1,13 +1,13 @@
-# A7 – [Topic]
+# A7 – FEA Iterative Process
 
-## Objective
+Objective
 
+Study Constraints and Loads
 
-## Analyze
+Study 1 (Original Design Testing)
 
+Study 2 (Second Vertical Support Added)
 
-## Decide
+Study 3 (Fillet Added)
 
-
-## Communicate
-
+2157 Portion-
