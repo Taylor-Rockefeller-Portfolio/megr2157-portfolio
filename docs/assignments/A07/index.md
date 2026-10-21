@@ -117,6 +117,13 @@ With the geometry change determined in study 1, I once again created a course me
 
 ## Study 3
 
-For study 3, the geometric changes were to reduce weight in the part. I did this by removing material where the part was under less stress. Since the beam that attaches to the wall is not experiencing a force perpendicular to the one applied, I am going to cut a slot in the beam along its neutral axis. 
+For study 3, the geometric changes were to reduce weight in the part. I did this by removing material where the part was under less stress. Since the beam that attaches to the wall is not experiencing a force perpendicular to the one applied, I am going to cut a slot in the beam along its neutral axis. This should reduce the weight while only minimally effecting the strength and stiffness. 
+
+![](study_33_excel.jpg)
+
+![](study_three(5).jpg)
+
+![](study_three(6).jpg)
+
 
 
