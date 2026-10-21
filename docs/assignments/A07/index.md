@@ -1,7 +1,7 @@
 # A7 – FEA Iterative Process
 
 Objective
-
+![](Assignment_Objective.png)
 ![](Part_Features_Diagram.png)
 
 ## Study Constraints and Loads
