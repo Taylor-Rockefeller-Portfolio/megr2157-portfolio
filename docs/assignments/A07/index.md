@@ -21,6 +21,8 @@ Study 1 (Original Design Testing)
 ![](combined-image(5).jpg)
 
 
+The image below shows the point of maximum stress and deflection on study 1. These locations are the subject of future design changes for study 2 to improve the part.
+
 ![](combined-image(7).jpg)
 
 Study 2 (Second Vertical Support Added)
