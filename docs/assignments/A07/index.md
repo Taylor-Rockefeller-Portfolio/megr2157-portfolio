@@ -86,6 +86,17 @@ After completing FEA cycle one I learned that using simple calculations for memb
 
 I have spent about 8 hours total on this assignment. Most of which was in capturing and combining images as well as excel documentation. 
 
-2157 Portion-
+## 2157 Portion-
+
+For this portion of the assignment, a SolidWorks part was assigned, and the same three studies must be completed. The part is made of 1020 steel and has a mass of 474 kg. Study 1 will test the original design and then I will improve upon it to increase its strength and reduce its weight. 
+
+## Overall Study Details
+
+Through the three iterations of the study the part will change in dimensions, but the applied load and the fixture will stay the same. The load is 250kg applied uniformly across the plate and the fixture is a fixed support at the end of the beam. 
+
+## Study 1
+
+While conducting study 1 I started with a course mesh and collected data and then moved to a medium mesh and collected data as well. The data converged so I used this data to draw a conclusion on how to improve the part. The part has high stress concentration near the support and deflects greatly because of that. I will remedy this by taking an equal amount of material from the end of the beam with the plate attached and moving it near the support. This will keep the mass the same and increase strength and decrease deflection which will in turn increase the factor of safety. The different mesh results are below as well as the convergence data calculated on excel.
+
 
 
