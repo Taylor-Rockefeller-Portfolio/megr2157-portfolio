@@ -11,3 +11,5 @@ Study 2 (Second Vertical Support Added)
 Study 3 (Fillet Added)
 
 2157 Portion-
+
+!![](combined-image.jpg)
