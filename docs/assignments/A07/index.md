@@ -1,6 +1,7 @@
 # A7 – FEA Iterative Process
 
-Objective
+## Assignment Objective
+
 ![](Assignment_Objective.png)
 ![](Part_Features_Diagram.png)
 
