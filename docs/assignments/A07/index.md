@@ -12,12 +12,6 @@ For each iteration of FEA studies, the part is constrained by a fixed connection
 
 Study 1 (Original Design Testing)
 
-Study 2 (Second Vertical Support Added)
-
-Study 3 (Fillet Added)
-
-2157 Portion-
-
 ![](combined-image(3).jpg)
 
 
@@ -27,7 +21,12 @@ Study 3 (Fillet Added)
 ![](combined-image(5).jpg)
 
 
-
-
-
 ![](combined-image(7).jpg)
+
+Study 2 (Second Vertical Support Added)
+
+Study 3 (Fillet Added)
+
+2157 Portion-
+
+
