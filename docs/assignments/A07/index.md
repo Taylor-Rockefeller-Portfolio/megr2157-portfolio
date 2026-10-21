@@ -34,6 +34,11 @@ The image below shows the point of maximum stress and deflection on study 1. The
 Study 2 Geometric Changes- The major failure of the part during study 1 was the deflection of feature A. In order to minimize deflection I am adding another support opposite of feature B that will make feature A behave more like a beam fixed at both ends as opposed to a cantilever beam. 
 
 ![](study_2_excel.jpg)
+![](study_2_screenshots(4).jpg)
+![](study_2_screenshots(5).jpg)
+![](study_2_screenshots(6).jpg)
+![](study_2_screenshots(7).jpg)
+![](study_2_Geometry.jpg)
 
 Study 3 (Fillet Added)
 
