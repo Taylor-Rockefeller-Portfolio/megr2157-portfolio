@@ -44,6 +44,8 @@ Study 3 (Fillet Added)
 
 Study 3 Geometric Changes- The failure point in study 2 was the joint between feature B and feature C. Particularly in the outer most edges. To combat this, I am adding a fillet at those joints. I made radius changes to the fillet after beginning study 3 when I realized that a large radius would be required to lower stresses and increase the safety factor. 
 
+![](study_3_excel.jpg)
+
 2157 Portion-
 
 
