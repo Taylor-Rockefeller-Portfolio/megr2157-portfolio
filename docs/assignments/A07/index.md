@@ -38,7 +38,7 @@ Study 2 Geometric Changes- The major failure of the part during study 1 was the 
 ![](study_2_screenshots(5).jpg)
 ![](study_2_screenshots(6).jpg)
 ![](study_2_screenshots(7).jpg)
-![](study_2_Geometry.jpg)
+![](study_2_Geometry.png)
 
 Study 3 (Fillet Added)
 
