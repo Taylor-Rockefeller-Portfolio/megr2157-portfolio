@@ -78,7 +78,7 @@ Below are the results from the three FEA iterations. Throughout the process, the
 
 ![](Results_table.png)
 
-
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A07/A7_Additional_part.zip
 
 
 ## Lessons Learned
