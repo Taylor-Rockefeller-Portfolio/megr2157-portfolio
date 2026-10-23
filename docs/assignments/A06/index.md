@@ -87,6 +87,10 @@ https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/head
 
 # Drawing
 
+![](Screenshotone.png)
+
+![](Screenshot(371).png)
+
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A06/So.Design.A6.2157.Drawing.SLDDRW
 
@@ -98,9 +102,5 @@ Through marking tighter tolerances on the drawing I was able to emphasize where 
 
 
 
-![](Screenshot(371).png)
-![](Screenshot(373).png)
-![](Screenshot(374).png)
-![](Screenshotone.png)
 
 
