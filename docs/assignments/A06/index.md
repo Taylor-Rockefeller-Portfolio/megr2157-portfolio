@@ -54,6 +54,10 @@ The dimensions of the fits vary in size and in their individual fits. I assessed
 
 ![](IMG_0349.jpg)
 
+![](Screenshot(373).png)
+
+![](Screenshot(374).png)
+
 
 
 ## Reflections
