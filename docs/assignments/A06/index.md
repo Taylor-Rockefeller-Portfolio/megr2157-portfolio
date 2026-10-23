@@ -94,4 +94,9 @@ Through marking tighter tolerances on the drawing I was able to emphasize where 
 
 
 
+![](Screenshot(371).png)
+![](Screenshot(373).png)
+![](Screenshot(374).png)
+![](Screenshotone.png)
+
 
