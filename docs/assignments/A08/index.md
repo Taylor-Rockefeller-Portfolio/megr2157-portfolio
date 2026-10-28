@@ -1,13 +1,19 @@
-# A8 – Gears
+# A8 – Gearbox Design
 
 ## Objective
 
 
-## Analyze
+## Input Shaft (power-transmission)
 
+## Output Shaft (short shaft)
 
-## Decide
+## Journal Bearing
 
+## CAD
 
-## Communicate
+## Lessons Learned
+
+## 2157 Portion
+
+![](A8_instructions(1).png)
 
