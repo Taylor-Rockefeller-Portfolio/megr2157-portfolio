@@ -53,6 +53,8 @@ models-
 
 ## 2157 Portion
 
+![](A8_instructions(1).png)
+
 Input Shaft-
 
 Output Shaft-
@@ -63,7 +65,7 @@ Bearings-
 
 Assembly-
 
-![](A8_instructions(1).png)
+
 
 
 
