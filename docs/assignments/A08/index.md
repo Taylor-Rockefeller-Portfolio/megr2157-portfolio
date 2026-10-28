@@ -40,7 +40,13 @@ Full Work-
 ## Journal Bearing
 
 Length, Pressure, Velocity, and PV-
-
+![](IMG_1722.jpg)
+![](IMG_1723.jpg)
+![](IMG_1724.jpg)
+![](IMG_1725.jpg)
+![](IMG_1726.jpg)
+![](IMG_1727.jpg)
+![](IMG_1728.jpg)
 Thickness-
 
 Mac-Master Bearing Selection-
