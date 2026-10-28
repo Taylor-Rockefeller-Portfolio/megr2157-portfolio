@@ -53,10 +53,14 @@ Input Shaft Bearing Equations-
 
 FBD-
 ![](IMG_1727.jpg)
-![](IMG_1728.jpg)
+
 Thickness-
 
 Mac-Master Bearing Selection-
+
+## Sketch
+
+![](IMG_1728.jpg)
 
 ## CAD
 
