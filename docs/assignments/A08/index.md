@@ -26,15 +26,15 @@ Full Work-
 ## Output Shaft (short shaft)
 
 Knowns/Unknowns-
-
+![](IMG_1716.jpg)
 FBD-
-
+![](IMG_1717.jpg)
 Equations-
-
+![](IMG_1718.jpg)
 Numerical Solution-
-
+![](IMG_1719.jpg)
 Given Shaft Dimension Analysis-
-
+![](IMG_1720.jpg)
 ## Journal Bearing
 
 Length, Pressure, Velocity, and PV-
