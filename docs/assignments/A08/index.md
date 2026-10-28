@@ -12,7 +12,7 @@
 ## Input Shaft (power-transmission)
 
 Knowns/Unknowns-
-
+![](IMG_1710.jpg)
 FBD-
 
 Equations-
