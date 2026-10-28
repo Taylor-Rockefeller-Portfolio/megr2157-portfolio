@@ -2,6 +2,12 @@
 
 ## Objective
 
+![](A8_instructions(6).png)
+![](A8_instructions(5).png)
+![](A8_instructions(3).png)
+![](A8_instructions(2).png)
+
+
 
 ## Input Shaft (power-transmission)
 
@@ -15,9 +21,7 @@
 
 ## 2157 Portion
 
-![](A8_instructions(6).png)
-![](A8_instructions(5).png)
-![](A8_instructions(3).png)
-![](A8_instructions(2).png)
 ![](A8_instructions(1).png)
+
+
 
