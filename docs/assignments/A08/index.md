@@ -14,13 +14,15 @@
 Knowns/Unknowns-
 ![](IMG_1710.jpg)
 FBD-
-
+![](IMG_1711.jpg)
 Equations-
-
+![](IMG_1712.jpg)
 Numerical Solution-
-
+![](IMG_1713.jpg)
 Given Shaft Dimension Analysis-
-
+![](IMG_1714.jpg)
+Full Work-
+![](IMG_1715.jpg)
 ## Output Shaft (short shaft)
 
 Knowns/Unknowns-
