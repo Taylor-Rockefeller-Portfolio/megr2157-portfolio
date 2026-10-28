@@ -41,12 +41,11 @@ Full Work-
 
 Length, Pressure, Velocity, and PV-
 Knowns/Unknowns-
-![](IMG_1722.jpg)
 ![](IMG_1723.jpg)
-Output Shaft Bearing Equations-
 ![](IMG_1724.jpg)
-Input Shaft Bearing Equations-
+Output Shaft Bearing Equations-
 ![](IMG_1725.jpg)
+Input Shaft Bearing Equations-
 ![](IMG_1726.jpg)
 ![](IMG_1727.jpg)
 ![](IMG_1728.jpg)
