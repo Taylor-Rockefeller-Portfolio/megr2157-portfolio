@@ -61,6 +61,8 @@ Output Shaft-
 
 Gear Housing -
 
+The gearbox housing is designed to utilize two identical halves to make a complete gearbox. There will only be one part shown. 
+
 Bearings-
 
 Assembly-
