@@ -17,7 +17,6 @@
 
 ![](A8_instructions(6).png)
 ![](A8_instructions(5).png)
-![](A8_instructions(4).png)
 ![](A8_instructions(3).png)
 ![](A8_instructions(2).png)
 ![](A8_instructions(1).png)
