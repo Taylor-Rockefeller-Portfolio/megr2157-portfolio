@@ -14,8 +14,7 @@
 ## Lessons Learned
 
 ## 2157 Portion
-![](A8_instructions(8).png)
-![](A8_instructions(7).png)
+
 ![](A8_instructions(6).png)
 ![](A8_instructions(5).png)
 ![](A8_instructions(4).png)
