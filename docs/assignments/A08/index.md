@@ -15,11 +15,31 @@
 
 ## Journal Bearing
 
+Pressure, Velocity, and PV
+
+
+
 ## CAD
+
+Parametric Equations-
+
+Mac-Master Models-
+
+models-
 
 ## Lessons Learned
 
 ## 2157 Portion
+
+Input Shaft-
+
+Output Shaft-
+
+Gear Housing -
+
+Bearings-
+
+Assembly-
 
 ![](A8_instructions(1).png)
 
