@@ -11,13 +11,35 @@
 
 ## Input Shaft (power-transmission)
 
+Knowns/Unknowns-
+
+FBD-
+
+Equations-
+
+Numerical Solution-
+
+Given Shaft Dimension Analysis-
+
 ## Output Shaft (short shaft)
+
+Knowns/Unknowns-
+
+FBD-
+
+Equations-
+
+Numerical Solution-
+
+Given Shaft Dimension Analysis-
 
 ## Journal Bearing
 
-Pressure, Velocity, and PV
+Length, Pressure, Velocity, and PV-
 
+Thickness-
 
+Mac-Master Bearing Selection-
 
 ## CAD
 
