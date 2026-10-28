@@ -40,13 +40,18 @@ Full Work-
 ## Journal Bearing
 
 Length, Pressure, Velocity, and PV-
+
 Knowns/Unknowns-
 ![](IMG_1723.jpg)
 ![](IMG_1724.jpg)
+
 Output Shaft Bearing Equations-
 ![](IMG_1725.jpg)
+
 Input Shaft Bearing Equations-
 ![](IMG_1726.jpg)
+
+FBD-
 ![](IMG_1727.jpg)
 ![](IMG_1728.jpg)
 Thickness-
