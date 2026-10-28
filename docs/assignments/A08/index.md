@@ -35,6 +35,8 @@ Numerical Solution-
 ![](IMG_1719.jpg)
 Given Shaft Dimension Analysis-
 ![](IMG_1720.jpg)
+Full Work-
+![](IMG_1721.jpg)
 ## Journal Bearing
 
 Length, Pressure, Velocity, and PV-
