@@ -112,27 +112,47 @@ Assembly-
 
 ## CAD Download Links
 
+Full Assembly-
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.A8.assembly.SLDASM
+
+Housing-
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.A8.housing.SLDPRT
 
+Housing Drawing-
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.A8.housing.drawing.SLDDRW
+
+Larger Bearing Drawing-
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.A8.largebearing.SLDDRW
 
+Output Shaft Drawing-
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.A8.output.drawing.SLDDRW
 
-https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.housing.SLDPRT
+Input Assembly-
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.input.assembly.SLDASM
 
+Input Assembly Drawing-
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.input.assembly.SLDDRW
+
+Input Shaft-
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.input.shaft.SLDPRT
 
+Output Shaft Assembly-
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.output.assembly.SLDASM
 
+Output Gear-
+
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.output.gear.SLDPRT
+
+Output Shaft-
 
 https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A08/So.Design.Aeight.output.shaft.SLDPRT
 
