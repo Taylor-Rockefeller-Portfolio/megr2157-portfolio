@@ -58,7 +58,7 @@ Thickness-
 
 Mac-Master Bearing Selection-
 
-With the calculated bearing values, the material I selected for the bearing will be bronze. This safely stays inside the limits of the material as per the provided chart in the lecture. Constraints placed on the assignment dictate that the fit for the shaft will be running/sliding. This requires a larger diameter bearing than the shaft. Given the available bearing sizes, the best fit for inner diameter would be 0.1255. This allows for an RC3 class fit with the given shaft diameter. The bearing selected for the 0.125 shaft is the 
+With the calculated bearing values, the material I selected for the bearing will be bronze. This safely stays inside the limits of the material as per the provided chart in the lecture. Constraints placed on the assignment dictate that the fit for the shaft will be running/sliding. This requires a larger diameter bearing than the shaft. Given the available bearing sizes, the best fit for inner diameter would be 0.1255. This allows for an RC3 class fit with the given shaft diameter. The bearing selected for the 0.125 shaft is the "   ".   The bearing selected for the 0.25 diameter shaft is the "   ". The thickness of these bearings is "  " and "  " respectively. 
 
 ## Sketch
 
