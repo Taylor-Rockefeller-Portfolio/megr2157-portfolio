@@ -94,11 +94,12 @@ Input Shaft-
 Output Shaft-
 ![](A8.output.drawing.png)
 Gear Housing -
-
+![](A8.housing.drawing.png)
 The gearbox housing is designed to utilize two identical halves to make a complete gearbox. There will only be one part shown. 
 
 Bearings-
 ![](A8.smallbearingdrawing.png)
+![](A8.largebearingdrawing.png)
 Assembly-
 
 
