@@ -65,9 +65,17 @@ With the calculated bearing values, the material I selected for the bearing will
 
 Parametric Equations-
 
+![](A8.Parametric_screenshot.png)
+
 Mac-Master Models-
 
 models-
+
+![](A8_input_screenshot.png)
+![](A8_output_screenshot.png)
+![](A8_housing_screenshot.png)
+![](A8_assembly_screenshot.png)
+
 
 ## Lessons Learned
 
