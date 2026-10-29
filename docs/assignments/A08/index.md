@@ -90,15 +90,15 @@ Throughout completing the assignment, I had a few hiccups. I initially completed
 ![](A8_instructions(1).png)
 
 Input Shaft-
-
+![](A8.Input.drawing.png)
 Output Shaft-
-
+![](A8.output.drawing.png)
 Gear Housing -
 
 The gearbox housing is designed to utilize two identical halves to make a complete gearbox. There will only be one part shown. 
 
 Bearings-
-
+![](A8.smallbearingdrawing.png)
 Assembly-
 
 
