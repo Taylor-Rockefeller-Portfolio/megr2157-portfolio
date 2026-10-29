@@ -67,7 +67,11 @@ Parametric Equations-
 
 ![](A8.Parametric_screenshot.png)
 
-Mac-Master Models-
+Mac-Master Bearings-
+
+![](A8.bearing_selection_1.png)
+![](A8.bearing_selection_2.png)
+
 
 models-
 
