@@ -83,6 +83,8 @@ models-
 
 ## Lessons Learned
 
+Throughout completing the assignment, I had a few hiccups. I initially completed a portion of the arithmetic to dimension the housing but did not finish bearing selection. I ended up creating the housing model using some general dimensions that I knew would be close to the final. I ran into problems with rebuilding the sketch after modifying some dimensions and assigning parametric relationships to others. If I had created the parametric equations before beginning the model I would have been more time efficient with the CAD portion of the assignment. 
+
 ## 2157 Portion
 
 ![](A8_instructions(1).png)
