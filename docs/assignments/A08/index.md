@@ -113,7 +113,7 @@ Assembly-
 ## CAD Download Links
 
 
-blob:https://github.com/6bbd2fd4-6818-4200-9da2-c80726a65d0e
+https://github.com/6bbd2fd4-6818-4200-9da2-c80726a65d0e
 
 
 
