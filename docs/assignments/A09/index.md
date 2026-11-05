@@ -11,15 +11,15 @@
 
 ## 2 Shaft Diameter
 
-![](a9_work(1).png)
-
 ![](a9_work(2).png)
 
 ## 3 Bearing
 
+![](a9_work(2).png)
 
 ## 4 Frame
 
+![](a9_work(1).png)
 
 ## 5 Lessons Learned
 
