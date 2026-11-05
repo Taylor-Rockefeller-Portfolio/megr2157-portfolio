@@ -4,6 +4,14 @@
 ![](a9_screenshot(1).png)
 ![](a9_screenshot(2).png)
 
+## Selected Parameters
+
+1000 RPM
+
+5 LBF
+
+Steel Pulley
+
 ## 1 Belt Selection
 ![](a9_work(3).png)
 
