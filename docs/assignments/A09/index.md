@@ -33,5 +33,5 @@ A belt of Diameter 5/16" is more than adequate for the desired safety factor. An
 
 ## 5 Lessons Learned
 
-
+I learned how belt friction including tight and loose sides of a pulley system effect minimum belt diameter requirements in order to stay within supplied safety factors. Not calculating loose and tight force would result in a belt diameter that is less than sufficient. 
 
