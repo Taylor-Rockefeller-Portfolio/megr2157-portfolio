@@ -15,6 +15,8 @@ Steel Pulley
 ## 1 Belt Selection
 ![](a9_work(3).png)
 
+A belt of Diameter 5/16" is more than adequate for the desired safety factor. And appropriate length was not available so a custom belt will be ordered to the required outer circumference.  
+
 ![](a9_screenshot(3).png)
 
 ## 2 Shaft Diameter
