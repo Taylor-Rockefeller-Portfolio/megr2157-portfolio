@@ -69,7 +69,39 @@ Leadscrew Selection-
 
 Beam Stress Analysis-
 
+
+![](crosshead_fbd.png)
+
+
+![](crosshead_knowns.png)
+
+
+![](symb_stress(1).png)
+
+
+![](symb_stress.png)
+
+
+![](numeric_stress.png)
+
+
 Beam Deflection Analysis-
+
+
+![](crosshead_fbd.png)
+
+
+![](crosshead_knowns.png)
+
+
+![](symb_defl(1).png)
+
+
+![](symb_defl.png)
+
+
+![](numeric_defl.png)
+
 
 Multiview Sketch-
 
