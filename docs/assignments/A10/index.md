@@ -105,7 +105,7 @@ Beam Deflection Analysis-
 
 Multiview Sketch-
 
-![](mulitview_crosshead.jpg)
+![](multiview_crosshead.jpg)
 
 ## Tabulating Costs 
 
