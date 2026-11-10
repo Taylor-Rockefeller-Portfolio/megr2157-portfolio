@@ -14,5 +14,5 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| 1 | 2 | Lead Screw | 18.20 | 36.4 | [Link](https://www.roton.com/product/acme-steel-screw-right-59284/) |
+| 1 | 2 | Lead Screw | 18.20 | 36.4 | [Lead Screw](https://www.roton.com/product/acme-steel-screw-right-59284/) |
 | 2 | 2 | Nut | cost/item | cost | link |
