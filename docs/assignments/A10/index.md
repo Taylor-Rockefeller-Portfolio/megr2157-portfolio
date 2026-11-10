@@ -105,6 +105,8 @@ Beam Deflection Analysis-
 
 Multiview Sketch-
 
+![](mulitview_crosshead.jpg)
+
 ## Tabulating Costs 
 
 | Item Number | Quantity | Name | Cost($)/Item | Cost($) | Purchase Link |
