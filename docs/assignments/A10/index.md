@@ -59,10 +59,11 @@ Leadscrew Selection-
 ![](updated_leadscrew(1).png)
 
 
-![](updated_leadscrew(2).png)
-
 
 ## Nut and Flange Selection-
+
+![](updated_leadscrew(2).png)
+
 
 ## Crosshead Design
 
