@@ -8,9 +8,6 @@
 ![](instructions(6).png)
 
 
-![](instructions(5).png)
-
-
 ![](instructions(4).png)
 
 
