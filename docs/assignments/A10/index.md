@@ -11,3 +11,8 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 
 ## Communicate
 
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| :--- | :--- | :--- |
+| 1 | 2 | Lead Screw | cost/item | cost | link |
+| 2 | 2 | Nut | cost/item | cost | link |
