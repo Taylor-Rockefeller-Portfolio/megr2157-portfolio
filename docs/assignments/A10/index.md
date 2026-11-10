@@ -31,10 +31,10 @@ Rotational Speed Range-
 ![](Rotational_speed(4).png)
 
 
-![](Rotational_speed(2).png)
-
-
 ![](Rotational_speed(3).png)
+
+
+![](Rotational_speed(2).png)
 
 
 Max Torque-
