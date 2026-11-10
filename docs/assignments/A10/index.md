@@ -38,10 +38,21 @@ Rotational Speed Range-
 
 
 Max Torque-
+
+
 ![](torque_evaluation(1).png)
-![](torque_evaluation(2).png)
-![](torque_evaluation(3).png)
+
+
 ![](torque_evaluation(4).png)
+
+
+![](torque_evaluation(3).png)
+
+
+![](torque_evaluation(2).png)
+
+
+
 Leadscrew Selection-
 ![](updated_leadscrew(1).png)
 ![](updated_leadscrew(2).png)
