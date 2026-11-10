@@ -3,12 +3,24 @@
 ## Objective
 
 ## Leadscrew Diameter
-![](leadscrew_diameter(1).png)
-![](leadscrew_diameter(2).png)
-![](leadscrew_diameter(3).png)
-![](leadscrew_diameter(4).png)
-![](initial_leadscrew.png)
+
+
 Minimum Diameter-
+
+![](leadscrew_diameter(4).png)
+
+
+![](leadscrew_diameter(3).png)
+
+
+![](leadscrew_diameter(2).png)
+
+
+![](leadscrew_diameter(1).png)
+
+
+![](initial_leadscrew.png)
+
 
 Rotational Speed Range-
 ![](Rotational_speed(1).png)
