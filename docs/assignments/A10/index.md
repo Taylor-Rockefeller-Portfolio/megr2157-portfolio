@@ -3,15 +3,26 @@
 ## Objective
 
 ## Leadscrew Diameter
-
+![](leadscrew_diameter(1).png)
+![](leadscrew_diameter(2).png)
+![](leadscrew_diameter(3).png)
+![](leadscrew_diameter(4).png)
+![](initial_leadscrew.png)
 Minimum Diameter-
 
 Rotational Speed Range-
-
+![](Rotational_speed(1).png)
+![](Rotational_speed(2).png)
+![](Rotational_speed(3).png)
+![](Rotational_speed(4).png)
 Max Torque-
-
+![](torque_evaluation(1).png)
+![](torque_evaluation(2).png)
+![](torque_evaluation(3).png)
+![](torque_evaluation(4).png)
 Leadscrew Selection-
-
+![](updated_leadscrew(1).png)
+![](updated_leadscrew(2).png)
 ## Nut and Flange Selection-
 
 ## Crosshead Design
