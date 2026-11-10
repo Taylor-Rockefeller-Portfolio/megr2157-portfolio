@@ -2,6 +2,24 @@
 
 ## Objective
 
+![](instructions(1).png)
+
+
+![](instructions(6).png)
+
+
+![](instructions(5).png)
+
+
+![](instructions(4).png)
+
+
+![](instructions(3).png)
+
+
+![](instructions(2).png)
+
+
 ## Leadscrew Diameter
 
 
