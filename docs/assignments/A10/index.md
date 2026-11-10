@@ -23,10 +23,20 @@ Minimum Diameter-
 
 
 Rotational Speed Range-
+
+
 ![](Rotational_speed(1).png)
-![](Rotational_speed(2).png)
-![](Rotational_speed(3).png)
+
+
 ![](Rotational_speed(4).png)
+
+
+![](Rotational_speed(2).png)
+
+
+![](Rotational_speed(3).png)
+
+
 Max Torque-
 ![](torque_evaluation(1).png)
 ![](torque_evaluation(2).png)
