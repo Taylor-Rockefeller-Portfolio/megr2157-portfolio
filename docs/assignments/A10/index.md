@@ -54,8 +54,14 @@ Max Torque-
 
 
 Leadscrew Selection-
+
+
 ![](updated_leadscrew(1).png)
+
+
 ![](updated_leadscrew(2).png)
+
+
 ## Nut and Flange Selection-
 
 ## Crosshead Design
