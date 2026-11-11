@@ -136,19 +136,90 @@ Multiview Sketch-
 
 Crosshead-
 
+![](crosshead_build(1).png)
+
+
+![](crosshead_build(2).png)
+
+
+![](crosshead_build(3).png)
+
+
+![](crosshead_build(4).png)
+
+
+![](crosshead_build(5).png)
+
+
+![](crosshead_build(6).png)
+
+
+![](crosshead_build(7).png)
+
+
+![](crosshead_build(8).png)
+
+
+
 Assembly-
+
+![](Assembly(1).png)
+
+
+![](Assembly(2).png)
+
 
 ## Lessons Learned
 
+
 ## 2157 Portion
+
 
 Model Setup-
 
-Meshing and Verification-
+
+![](FEA_setup.png)
+
 
 Results to Report-
 
-Optimization Pass-
+
+![](FEA_trialOne(1).png)
+
+
+![](FEA_trialOne(2).png)
+
+
+![](FEA_trialOne(3).png)
+
+
+Optimization Pass #1-
+
+Crosshead thickness was increased to 2 inches.
+
+
+![](FEA_trialTwo(1).png)
+
+
+![](FEA_trialTwo(2).png)
+
+
+![](FEA_trialTwo(3).png)
+
+
+Optimization Pass #2-
+
+Crosshead thickness was increased to 4 inches.
+
+
+![](FEA_trialThree(1).png)
+
+
+![](FEA_trialThree(2).png)
+
+
+![](FEA_trialThree(3).png)
+
 
 Crosshead Drawing-
 
