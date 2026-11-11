@@ -223,3 +223,7 @@ Crosshead thickness was increased to 4 inches.
 
 Crosshead Drawing-
 
+Crosshead drawing seen below is available in this link for download. 
+
+![](crosshead_drawing.png)
+
