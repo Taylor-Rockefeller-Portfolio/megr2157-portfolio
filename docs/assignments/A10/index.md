@@ -212,13 +212,13 @@ Optimization Pass #2-
 Crosshead thickness was increased to 4 inches.
 
 
-![](FEA_trialThree(1).png)
+![](FEA_tiralThree(1).png)
 
 
-![](FEA_trialThree(2).png)
+![](FEA_tiralThree(2).png)
 
 
-![](FEA_trialThree(3).png)
+![](FEA_tiralThree(3).png)
 
 
 Crosshead Drawing-
