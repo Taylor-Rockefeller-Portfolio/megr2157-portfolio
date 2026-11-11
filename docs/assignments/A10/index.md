@@ -228,7 +228,9 @@ Crosshead thickness was increased to 4 inches.
 
 Crosshead Drawing-
 
-Crosshead drawing seen below is available in this link for download. https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A10/A10_crosshead_drawing.SLDDRW
+Crosshead drawing seen below is available in this link for download.
+
+https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/A10/A10_crosshead_drawing.SLDDRW
 
 
 ![](crosshead_drawing.png)
