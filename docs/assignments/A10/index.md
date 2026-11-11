@@ -179,6 +179,8 @@ Leadscrew Selection: I learned how to determine the minimum leadscrew diameter u
 
 *Nut and Flange Selection: I learned how to evaluate the bearing stress on the internal threads of a bronze nut and verify that commercially available nuts and flanges can support the required axial load. I also learned the importance of checking mounting dimensions before selecting components.
 
+Crosshead Design: I learned that calculating beam bending and deflection through standard beam bending formulas can leave components smaller than required when tested more accurately with FEA. Selecting a simple beam bending equation gives a good starting point to test and further develop the design.
+
 *Assembly Constraints: I learned the differences between Rigid, Revolute, Cylindrical, and Slider Joints in Fusion 360. I initially had difficulty positioning the leadscrews because the existing joints restricted their movement. Using As-Built Joints and temporarily suppressing conflicting joints helped resolve the problem.
 
 *Frame Design: I learned how to select and assemble T-slot aluminum framing around an existing mechanical assembly. I also learned that the frame must provide enough clearance for the crosshead while maintaining proper alignment between the two leadscrews.
