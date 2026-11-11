@@ -17,7 +17,7 @@
 ![](instructions(2).png)
 
 
-## Leadscrew Diameter
+## Leadscrew Diameter (Kadin Bittner)
 
 
 Minimum Diameter-
@@ -75,12 +75,12 @@ Leadscrew Selection-
 
 
 
-## Nut and Flange Selection-
+## Nut and Flange Selection (Kadin Bittner)
 
 ![](updated_leadscrew(2).png)
 
 
-## Crosshead Design
+## Crosshead Design (Taylor Rockefeller)
 
 Beam Stress Analysis-
 
@@ -122,7 +122,7 @@ Multiview Sketch-
 
 ![](multiview_crosshead.jpg)
 
-## Tabulating Costs 
+## Tabulating Costs (Taylor Rockefeller)
 
 | Item Number | Quantity | Name | Cost($)/Item | Cost($) | Purchase Link |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
@@ -132,7 +132,7 @@ Multiview Sketch-
 |  |  |  | Total Cost: | 182.80 |  |
 
 
-## Parametric Modeling
+## Parametric Modeling (Kadin Bittner)
 
 Crosshead-
 
@@ -169,10 +169,14 @@ Assembly-
 ![](Assembly(2).png)
 
 
-## Lessons Learned
+## Lessons Learned (Taylor Rockefeller)
+
+Throughout the project, there have been many opportunities to utilize newly learned formulas to develop relationships between the desired load on the tensile tester and the dimensional/material requirements of the components to make the system functional and safe. After completing the initial lead screw diametrical requirement, a lead screw was selected to further evaluate. Though the lead screw met the first requirement, it failed further evaluation and an enlarged lead screw was required to maintain the safety factor of the system. Furthermore, the crosshead was evaluated to maintain the correct safety factor but in testing, the crosshead's thickness needed to be increased substantially.  
 
 
 ## 2157 Portion
+
+## FEA (Kadin Bittner)
 
 
 Model Setup-
@@ -220,6 +224,7 @@ Crosshead thickness was increased to 4 inches.
 
 ![](FEA_tiralThree(3).png)
 
+## Multiview Drawing (Taylor Rockefeller)
 
 Crosshead Drawing-
 
