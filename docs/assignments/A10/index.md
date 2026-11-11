@@ -171,7 +171,19 @@ Assembly-
 
 ## Lessons Learned (Taylor Rockefeller)
 
-Throughout the project, there have been many opportunities to utilize newly learned formulas to develop relationships between the desired load on the tensile tester and the dimensional/material requirements of the components to make the system functional and safe. After completing the initial lead screw diametrical requirement, a lead screw was selected to further evaluate. Though the lead screw met the first requirement, it failed further evaluation and an enlarged lead screw was required to maintain the safety factor of the system. Furthermore, the crosshead was evaluated to maintain the correct safety factor but in testing, the crosshead's thickness needed to be increased substantially.  
+Throughout the project, there have been many opportunities to utilize newly learned formulas to develop relationships between the desired load on the tensile tester and the dimensional/material requirements of the components to make the system functional and safe.
+
+Leadscrew Selection: I learned how to determine the minimum leadscrew diameter using axial stress and a factor of safety. I also learned that selecting a leadscrew requires considering thread pitch, rotational speed, torque, and the load capacity of the matching nut.
+
+*Leadscrew Torque and Speed: I learned how the lead of an Acme screw affects the torque and rotational speed required to move a load. Increasing the screw lead increases the linear distance traveled per revolution but generally requires more torque for the same axial load and efficiency.
+
+*Nut and Flange Selection: I learned how to evaluate the bearing stress on the internal threads of a bronze nut and verify that commercially available nuts and flanges can support the required axial load. I also learned the importance of checking mounting dimensions before selecting components.
+
+*Assembly Constraints: I learned the differences between Rigid, Revolute, Cylindrical, and Slider Joints in Fusion 360. I initially had difficulty positioning the leadscrews because the existing joints restricted their movement. Using As-Built Joints and temporarily suppressing conflicting joints helped resolve the problem.
+
+*Frame Design: I learned how to select and assemble T-slot aluminum framing around an existing mechanical assembly. I also learned that the frame must provide enough clearance for the crosshead while maintaining proper alignment between the two leadscrews.
+
+*Teamwork and Design Integration: I learned the importance of coordinating component dimensions between team members. Integrating my partner's crosshead design with commercially available leadscrews, nuts, flanges, and framing required checking dimensions and adjusting the assembly to ensure the components fit together.
 
 
 ## 2157 Portion
