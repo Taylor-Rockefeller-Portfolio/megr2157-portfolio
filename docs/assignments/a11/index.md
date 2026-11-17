@@ -45,15 +45,18 @@
 #### Knowns/Unknowns
 
 ![](A11_coupler_math(1).png)
-![](A11_coupler_math(2).png)
-![](A11_coupler_math(3).png)
-![](A11_coupler_math(4).png)
 
 #### FBD
 
+![](A11_coupler_math(4).png)
+
 #### Equations
 
+![](A11_coupler_math(3).png)
+
 #### Numeric Solution
+
+![](A11_coupler_math(2).png)
 
 ## Frame Design:
 
