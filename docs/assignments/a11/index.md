@@ -66,6 +66,11 @@
 
 #### FBD
 
+![](A11_bracket_math(1).png)
+![](A11_bracket_math(2).png)
+![](A11_bracket_math(3).png)
+![](A11_bracket_math(4).png)
+
 #### Equations
 
 #### Numeric Solution and Connector Selection
