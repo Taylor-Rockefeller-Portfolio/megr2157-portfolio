@@ -80,3 +80,59 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
 #### Optimization Pass
 
+### Vertical Frame Component FEA-
+
+#### Model Setup
+
+#### Meshing and Verification
+
+#### Results
+
+Maximum von Mises stress and location
+
+
+Maximum vertical deflection at the grip line
+
+
+Factor of Safety (based on chosen material yield)
+
+
+Brief discussion of load path and any observed twisting/warping tendencies
+
+
+#### Optimization Pass
+
+## Floating Bearing Mount:
+
+### Dimension and Loaction Justification-
+
+### Functional Tolerances-
+
+## Bill of Materials/ Labor Cost:
+
+## Lessons Learned:
+
+## 2157 Portion:
+
+### Designed Components-
+
+#### Crosshead
+
+#### Motor Mount
+
+#### Floating Bearing Mount
+
+### Assembly-
+
+### Bill of Materials-
+
+
+
+
+
+
+
+
+
+
+
