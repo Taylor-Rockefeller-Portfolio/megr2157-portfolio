@@ -2,11 +2,19 @@
 
 ## Objective
 
+![](A11_instructions(1).png)
 
-## Analyze
+![](A11_instructions(8).png)
 
+![](A11_instructions(7).png)
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+![](A11_instructions(6).png)
 
-## Communicate
+![](A11_instructions(5).png)
+
+![](A11_instructions(4).png)
+
+![](A11_instructions(3).png)
+
+![](A11_instructions(2).png)
+
