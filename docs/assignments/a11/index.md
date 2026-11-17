@@ -160,7 +160,12 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
  - [Column Buckling - Mechanicalc](https://www.google.com/url?q=https://mechanicalc.com/reference/column-buckling&sa=D&source=editors&ust=1794952091818303&usg=AOvVaw0Vx8LXXlq9TvZojPPf21bP)
      - Reference for column buckling calculations and end conditions.
- 
+
+ ### Reading
+
+ - [DC Motor Calculations - Youtube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhgW1fH08cVc&sa=D&source=editors&ust=1794952091812595&usg=AOvVaw06hVVFbBV_OH6KEWlZaPEq)
+
+     - Reference for DC motor calculations for motor selection.
 
 
 
