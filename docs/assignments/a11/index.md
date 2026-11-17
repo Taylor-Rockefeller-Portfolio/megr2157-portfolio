@@ -24,7 +24,11 @@
 
 #### Data
 
+![](A11_motor.png)
+
 #### Speed Torque Curve
+
+![](A11_motor_chart.png)
 
 ### Motor Mount-
 
@@ -39,6 +43,11 @@
 ### Coupler-
 
 #### Knowns/Unknowns
+
+![](A11_coupler_math(1).png)
+![](A11_coupler_math(2).png)
+![](A11_coupler_math(3).png)
+![](A11_coupler_math(4).png)
 
 #### FBD
 
