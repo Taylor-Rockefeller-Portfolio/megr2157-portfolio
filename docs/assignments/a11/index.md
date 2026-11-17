@@ -139,6 +139,7 @@ Brief discussion of load path and any observed twisting/warping tendencies
 | Kadin Bittner | Y | 35 | 35*Y |
 |  |  | Total Cost: | 182.80 |
 
+Total Cost of Project: $XXX
 
 ## Resources
 
