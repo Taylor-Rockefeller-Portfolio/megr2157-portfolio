@@ -22,26 +22,26 @@
 
 ### Motor Selection-
 
-#### Data
+  #### Data
 
-#### Speed Torque Curve
+  #### Speed Torque Curve
 
 ### Motor Mount-
 
-#### Knowns/Unknowns
+  #### Knowns/Unknowns
 
-#### FBD
+  #### FBD
 
-#### Equations
+  #### Equations
 
-#### Numeric Solution
+  #### Numeric Solution
 
 ### Coupler-
 
-#### Knowns/Unknowns
+  #### Knowns/Unknowns
 
-#### FBD
+  #### FBD
 
-#### Equations
+  #### Equations
 
-#### Numeric Solution
+  #### Numeric Solution
