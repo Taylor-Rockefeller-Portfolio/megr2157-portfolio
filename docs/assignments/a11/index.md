@@ -126,6 +126,20 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
 ### Bill of Materials-
 
+| Item Number | Quantity | Name | Cost($)/Item | Cost($) | Purchase Link |
+| :---: | :---: | :---: | :---: | :---: | :---: | 
+| 1 | 2 | Lead Screw | 18.20 | 36.40 | [Lead Screw](https://www.roton.com/product/acme-steel-screw-right-59284/) |
+| 2 | 2 | Nut | 23.57 | 47.14 | [Nut](https://www.roton.com/product/acme-bronze-threaded-mount-nut-right-90222/) |
+| 3 | 2 | Flange | 49.63 | 99.26 | [Flange](https://www.roton.com/product/flange-steel-flange-89838/) |
+|  |  |  | Total Cost: | 182.80 |  |
+
+| Person | Hours Worked | Cost($)/Hour | Cost($) | 
+| :---: | :---: | :---: | :---: | 
+| Taylor Rockefeller | X | 35 | 35*X | 36.40 |
+| Kadin Bittner | Y | 35 | 35*Y |
+|  |  | Total Cost: | 182.80 |
+
+
 ## Resources
 
 ### Tensile Tester Design References
