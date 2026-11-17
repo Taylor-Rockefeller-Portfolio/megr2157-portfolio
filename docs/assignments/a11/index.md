@@ -18,15 +18,25 @@
 
 ![](A11_instructions(2).png)
 
-## Motor Selection and Attachment
+## Motor Selection and Attachment:
 
-### Motor Selection
+### Motor Selection-
 
 #### Data
 
 #### Speed Torque Curve
 
-### Motor Mount
+### Motor Mount-
+
+#### Knowns/Unknowns
+
+#### FBD
+
+#### Equations
+
+#### Numeric Solution
+
+### Coupler-
 
 #### Knowns/Unknowns
 
