@@ -140,7 +140,7 @@ Brief discussion of load path and any observed twisting/warping tendencies
 | 6 | 4 | Frame Member | 82.10/meter | 228.62 | [Frame Member](https://8020.net/40-4080.html) |
 | 7 | 2 | Motor | 71.00 | 142.00 | [Motor](http://www.moonsindustries.com/p/nema-23-high-precision-hybrid-stepper-motors/ms23haap4200-000004611110015320) |
 | 8 | 2 | Coupler | 151.71 | 303.42 | [Coupler](http://www.mcmaster.com/6446K782) |
-|  |  |  | Total Cost: | 182.80 |  |
+|  |  |  | Total Cost: | 954.76 |  |
 
 | Person | Hours Worked | Cost($)/Hour | Cost($) | 
 | :---: | :---: | :---: | :---: | 
