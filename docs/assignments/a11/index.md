@@ -22,26 +22,61 @@
 
 ### Motor Selection-
 
-  #### Data
+#### Data
 
-  #### Speed Torque Curve
+#### Speed Torque Curve
 
 ### Motor Mount-
 
-  #### Knowns/Unknowns
+#### Knowns/Unknowns
 
-  #### FBD
+#### FBD
 
-  #### Equations
+#### Equations
 
-  #### Numeric Solution
+#### Numeric Solution
 
 ### Coupler-
 
-  #### Knowns/Unknowns
+#### Knowns/Unknowns
 
-  #### FBD
+#### FBD
 
-  #### Equations
+#### Equations
 
-  #### Numeric Solution
+#### Numeric Solution
+
+## Frame Design:
+
+### Frame Connector Selections-
+
+#### Knowns/Unknowns
+
+#### FBD
+
+#### Equations
+
+#### Numeric Solution and Connector Selection
+
+### Upper Beam FEA-
+
+#### Model Setup
+
+#### Meshing and Verification
+
+#### Results
+
+Maximum von Mises stress and location
+
+
+Maximum vertical deflection at the grip line
+
+
+Factor of Safety (based on chosen material yield)
+
+
+Brief discussion of load path and any observed twisting/warping tendencies
+
+
+#### Optimization Pass
+
