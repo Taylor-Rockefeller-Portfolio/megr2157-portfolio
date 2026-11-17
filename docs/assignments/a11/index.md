@@ -126,6 +126,42 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
 ### Bill of Materials-
 
+## Resources
+
+### Tensile Tester Design References
+
+- [Design, Manufacturing, and Testing of an Open-Source Universal Testing Machine – TU Wien (2024)](https://repositum.tuwien.at/bitstream/20.500.12708/200949/1/Demmel%20Stella%20-%202024%20-%20Design%20manufacturing%20and%20testing%20of%20an%20open-source...pdf)
+  - Reference for tensile tester design, mechanical components, and testing methods.
+
+- [Low-Cost Universal Tensile Testing Machine – Hackaday](https://hackaday.io/project/192166-low-cost-universal-tensile-testing-machine)
+  - Reference for developing an affordable tensile testing system.
+
+- [FreeLoader – Creative Machines Lab](https://www.creativemachineslab.com/freeloader.html)
+  - Reference for the mechanical arrangement of an open-source tensile tester.
+
+ ### Frame/ Components
+
+ - [Metric Profiles for T slot Framing - grainger](https://www.google.com/url?q=https://www.grainger.com/category/material-handling/structural-framing-systems/t-slot-framing-systems/profiles-for-t-slot-framing/metric-profiles-for-t-slot-framing?attrs%3DRelative%2BProfile%2BWeight%257CHeavy~~Series%257C40%2BSeries%26filters%3Dattrs&sa=D&source=editors&ust=1794952091817665&usg=AOvVaw2PWtiulz9v1kR32-zk-ETn)
+   - Reference for various frame profiles.
+
+- [Connectors for T slot Framing - grainger](https://www.google.com/url?q=https://www.grainger.com/category/material-handling/structural-framing-systems/t-slot-framing-systems/connectors-for-t-slot-framing?categoryIndex%3D3&sa=D&source=editors&ust=1794952091817806&usg=AOvVaw3UXMMvnxyfN7ayY0QMiQSY)
+    - Reference for multiple T slot frame connector options.
+ 
+- [Load Cell - dwyeromega](https://www.google.com/url?q=https://assets.dwyeromega.com/spec/DS-LC103B.pdf&sa=D&source=editors&ust=1794952091817902&usg=AOvVaw1Rnaub4fOdLtiBKVNsDh6B)
+    - Reference for load cell data sheet.
+ 
+- [Lead Screw and Nut/Flange - McMaster](https://www.google.com/url?q=https://www.mcmaster.com/products/acme-lead-screws/precision-lead-screws-and-nuts-1~/precision-acme-lead-screws-and-nuts-6/nut-type~externally-threaded/nut-type~flange/material~bronze-1/&sa=D&source=editors&ust=1794952091818054&usg=AOvVaw1W57GNAnq3MwQkERIMCFuA)
+    - Reference for McMaster catalog of lead screws and nuts/flanges.
+ 
+- [Lead Screw - Roton](https://www.google.com/url?q=https://www.roton.com/products/acme-lead-screws-nuts/engineering-data/?utm_source%3Dchatgpt.com&sa=D&source=editors&ust=1794952091818169&usg=AOvVaw0kI2oWCPY0Ikd0dJ_n5mO3)
+  - Reference for Roton lead screw catalog.
+
+ ### Engineering Theory 
+
+ - [Column Buckling - Mechanicalc](https://www.google.com/url?q=https://mechanicalc.com/reference/column-buckling&sa=D&source=editors&ust=1794952091818303&usg=AOvVaw0Vx8LXXlq9TvZojPPf21bP)
+     - Reference for column buckling calculations and end conditions.
+ 
+
 
 
 
