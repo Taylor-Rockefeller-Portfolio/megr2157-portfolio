@@ -137,7 +137,7 @@ Brief discussion of load path and any observed twisting/warping tendencies
 | 3 | 2 | Flange | 49.63 | 99.26 | [Flange](https://www.roton.com/product/flange-steel-flange-89838/) |
 | 4 | 2 | Guesset | 49.63 | 99.26 | [Gusset](http://8020.net/40-4334.html) |
 | 5 | 2 | Bearing | 49.63 | 99.26 | [Bearing](https://www.traceparts.com/en/product/motion-industries-radialdeep-groove-ball-bearing-6082rsh?CatalogPath=TRACEPARTS:TP01002001001002&Product=90-06092022-035185) |
-| 6 | 2 | Frame Member | 49.63 | 99.26 | [Frame Member](https://8020.net/40-4080.html) |
+| 6 | 4 | Frame Member | 82.10/meter | 228.62 | [Frame Member](https://8020.net/40-4080.html) |
 | 7 | 2 | Motor | 71.00 | 142.00 | [Motor](http://www.moonsindustries.com/p/nema-23-high-precision-hybrid-stepper-motors/ms23haap4200-000004611110015320) |
 | 8 | 2 | Coupler | 49.63 | 99.26 | [Coupler](http://www.mcmaster.com/6446K782) |
 |  |  |  | Total Cost: | 182.80 |  |
