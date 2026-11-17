@@ -64,16 +64,19 @@
 
 #### Knowns/Unknowns
 
+![](A11_bracket_math(1).png)
+
 #### FBD
 
-![](A11_bracket_math(1).png)
-![](A11_bracket_math(2).png)
-![](A11_bracket_math(3).png)
 ![](A11_bracket_math(4).png)
 
 #### Equations
 
+![](A11_bracket_math(3).png)
+
 #### Numeric Solution and Connector Selection
+
+![](A11_bracket_math(2).png)
 
 ### Upper Beam FEA-
 
