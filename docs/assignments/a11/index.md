@@ -54,9 +54,11 @@
 
 ![](A11_coupler_math(3).png)
 
-#### Numeric Solution
+#### Numeric Solution/Coupler Selection
 
 ![](A11_coupler_math(2).png)
+
+![](A11_coupler_selected.png)
 
 ## Frame Design:
 
