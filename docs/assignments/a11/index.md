@@ -170,11 +170,11 @@ The bearing mounting hole will have a higher degree of precision than the other 
 
 | Person | Hours Worked | Cost($)/Hour | Cost($) | 
 | :---: | :---: | :---: | :---: | 
-| Taylor Rockefeller | 10 | 35 | 350 |
-| Kadin Bittner | 12 | 35 | 420 |
-|  |  | Total Cost: | 182.80 |
+| Taylor Rockefeller | 10 | 35.00 | 350.00 |
+| Kadin Bittner | 12 | 35.00 | 420.00 |
+|  |  | Total Cost: | 770.00 |
 
-Total Cost of Project: $XXX
+Total Cost of Project: $1724.76
 
 ## Lessons Learned:
 
