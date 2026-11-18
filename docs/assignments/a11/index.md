@@ -22,7 +22,7 @@
 
 ### Motor Selection-
 
-#### Data
+#### Motor
 
 ![](A11_motor.png)
 
