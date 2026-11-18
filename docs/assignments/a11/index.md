@@ -116,11 +116,11 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
 Maximum von Mises stress and location
 
-![](A11_FEA_Deflection.png)
+![](A11_vertical_von.png)
 
 Maximum vertical deflection at the grip line
 
-![](A11_vertical_von.png)
+![](A11_FEA_Deflection.png)
 
 Factor of Safety (based on chosen material yield)
 
