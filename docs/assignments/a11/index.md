@@ -135,7 +135,22 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
 ### Dimension and Loaction Justification-
 
+Mounting Hole Location/Spacing-
+The holes for mounting the bearing housing to the frame were spaced to allow for usage of the frames integrated T slots (40mm) that allow for mounting hardware to thread into T slot nuts. The housing was designed to be symmetrical for ease of installation so the distance along the length of the beam is also 40mm to allow for the housing to be mounted in either orientation.
+
+Mounting Hole Diameter-
+The mounting hole diameter is [    ] to allow for proper a proper clearance fit with the [     ] fasteners.
+
+Bearing Hole Diameter- 
+The bearing hole diameter is [    ] to allow for the proper RC3 fit with the lead screw. 
+
 ### Functional Tolerances-
+
+Standard Tolerances- 
+The mounting hole locations and diameters will have the standard tolerances noted on their drawings. The diameter of the holes is much larger than required so no tighter tolerances are required, and the location of the holes, while important, can vary because the T slot nuts allow for some movement within the slot while still fastening correctly.
+
+Increased Tolerance Precision-
+The bearing mounting hole will have a higher degree of precision than the other features, this is due to the required tolerances of the RC3 fit class which is [   ]. This would not be satisfied by the standard tolerances. 
 
 ## Bill of Materials/ Labor Cost:
 
