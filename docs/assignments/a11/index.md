@@ -141,10 +141,10 @@ Mounting Hole Location/Spacing-
 The holes for mounting the bearing housing to the frame were spaced to allow for usage of the frames integrated T slots (40mm) that allow for mounting hardware to thread into T slot nuts. The housing was designed to be symmetrical for ease of installation so the distance along the length of the beam is also 40mm to allow for the housing to be mounted in either orientation. The mounting holes will be spaced 20mm off of the bearing hole, this is critical to ensure proper alignment. 
 
 Mounting Hole Diameter-
-The mounting hole diameter is 9mm to allow for proper a proper clearance fit with the [     ] fasteners.
+The mounting hole diameter is 9mm to allow for proper a proper clearance fit with the M8 fasteners.
 
 Bearing Hole Diameter- 
-The bearing hole diameter is 22.033mm to allow for the proper RC3 fit with the lead screw bearing outer diameter of 22mm. 
+The bearing hole diameter is 22.033mm to allow for the proper RC3 fit with the lead screw bearing outer diameter of 22mm. This value lies close to the middle of the tolerance allowed for this fit class.
 
 ### Functional Tolerances-
 
@@ -152,7 +152,7 @@ Standard Tolerances-
 The mounting hole locations and diameters will have the standard tolerances noted on their drawings. The diameter of the holes is much larger than required so no tighter tolerances are required, and the location of the holes, while important, can vary because the T slot nuts allow for some movement within the slot while still fastening correctly.
 
 Increased Tolerance Precision-
-The bearing mounting hole will have a higher degree of precision than the other features, this is due to the required tolerances of the RC3 fit class which is [   ]. This would not be satisfied by the standard tolerances. 
+The bearing mounting hole will have a higher degree of precision than the other features, this is due to the required clearance of the RC3 fit class which is 0.8 to 2.1 thou. This is ensured by setting an asymmetrical tolerance of + 0.007" and - 0.012". Staying within these tolerances will ensure the RC3 fit is achieved. 
 
 ## Bill of Materials/ Labor Cost:
 
@@ -170,8 +170,8 @@ The bearing mounting hole will have a higher degree of precision than the other 
 
 | Person | Hours Worked | Cost($)/Hour | Cost($) | 
 | :---: | :---: | :---: | :---: | 
-| Taylor Rockefeller | X | 35 | 35*X | 36.40 |
-| Kadin Bittner | Y | 35 | 35*Y |
+| Taylor Rockefeller | 10 | 35 | 350 | 36.40 |
+| Kadin Bittner | 12 | 35 | 420 |
 |  |  | Total Cost: | 182.80 |
 
 Total Cost of Project: $XXX
