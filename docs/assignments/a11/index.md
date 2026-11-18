@@ -178,23 +178,23 @@ Total Cost of Project: $XXX
 
 ## Lessons Learned:
 
-- I learned how to analyze product data sheets and speed torque curves to properly select a motor to stay within project constraints.
+- Motor Selection- I learned how to analyze product data sheets and speed torque curves to properly select a motor to stay within project constraints.
 
-- I learned how to design a motor mount that fixed a selected motor to a frame member with proper fastening and alignment while ensuring proper material selection and dimensioning to avoid excessive deflection.
+- Motor Mount- I learned how to design a motor mount that fixed a selected motor to a frame member with proper fastening and alignment while ensuring proper material selection and dimensioning to avoid excessive deflection.
 
-- I learned how to conduct shear stress torsion analysis on a coupler feature to determine minimum outer diameter allowable given the inner diameter of the coupler being our lead screw and motor output feature dimensions. Conducting these calculations allowed for selection of a coupler that had a safety factor above the requirement.
+- Coupler- I learned how to conduct shear stress torsion analysis on a coupler feature to determine minimum outer diameter allowable given the inner diameter of the coupler being our lead screw and motor output feature dimensions. Conducting these calculations allowed for selection of a coupler that had a safety factor above the requirement.
 
-- I learned how to use static analysis on our top frame member to ensure that the commercially available mounting brackets would be adequate to withstand the forces created by the tensile tester motors and lead screw.
+- Frame Bracket- I learned how to use static analysis on our top frame member to ensure that the commercially available mounting brackets would be adequate to withstand the forces created by the tensile tester motors and lead screw.
 
-- I learned how utilizing FEA on the top frame member ensures proper beam performance once assembled and how FEA allows for feature optimization iterations to improve tested criteria. This FEA process required application of forces from the lead screws and moments created by the motors. 
+- Top Member FEA- I learned how utilizing FEA on the top frame member ensures proper beam performance once assembled and how FEA allows for feature optimization iterations to improve tested criteria. This FEA process required application of forces from the lead screws and moments created by the motors. 
 
-- I learned how utilizing FEA on the vertical frame members ensures proper beam performance once assembled and how FEA allows for feature optimization iterations to improve tested criteria. This FEA required two loads to be applied, the vertical load from the lead screws and the force perpendicular to the member from the motors applied moment.
+- Vertical Member FEA- I learned how utilizing FEA on the vertical frame members ensures proper beam performance once assembled and how FEA allows for feature optimization iterations to improve tested criteria. This FEA required two loads to be applied, the vertical load from the lead screws and the force perpendicular to the member from the motors applied moment.
 
-- I learned how to dimension and set functional tolerances on a bearing mount while utilizing clearance holes for fasteners and an RC3 fit class for a bearing. This allows for proper mounting of the bearing housing and a fit class consistent with the project constraints.
+- Bearing Mount- I learned how to dimension and set functional tolerances on a bearing mount while utilizing clearance holes for fasteners and an RC3 fit class for a bearing. This allows for proper mounting of the bearing housing and a fit class consistent with the project constraints.
 
-- I learned how to properly track material quantitates and costs as well as personnel work hours devoted to the project. This allowed for an accurate project cost to be established.
+- Bill of Materials- I learned how to properly track material quantitates and costs as well as personnel work hours devoted to the project. This allowed for an accurate project cost to be established.
 
-- I learned how to assemble a drawing package that showcases both the designed components of our assembly and the assembly as a whole while also providing an accurate materials list and total cost of materials and labor hours. 
+- 2157 Drawing Package- I learned how to assemble a drawing package that showcases both the designed components of our assembly and the assembly as a whole while also providing an accurate materials list and total cost of materials and labor hours. 
 
 
 ## 2157 Portion:
