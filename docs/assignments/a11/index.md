@@ -138,7 +138,7 @@ Brief discussion of load path and any observed twisting/warping tendencies
 ### Dimension and Loaction Justification-
 
 Mounting Hole Location/Spacing-
-The holes for mounting the bearing housing to the frame were spaced to allow for usage of the frames integrated T slots (40mm) that allow for mounting hardware to thread into T slot nuts. The housing was designed to be symmetrical for ease of installation so the distance along the length of the beam is also 40mm to allow for the housing to be mounted in either orientation.
+The holes for mounting the bearing housing to the frame were spaced to allow for usage of the frames integrated T slots (40mm) that allow for mounting hardware to thread into T slot nuts. The housing was designed to be symmetrical for ease of installation so the distance along the length of the beam is also 40mm to allow for the housing to be mounted in either orientation. The mounting holes will be spaced 20mm off of the bearing hole, this is critical to ensure proper alignment. 
 
 Mounting Hole Diameter-
 The mounting hole diameter is 9mm to allow for proper a proper clearance fit with the [     ] fasteners.
