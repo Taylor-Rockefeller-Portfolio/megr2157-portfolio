@@ -133,6 +133,8 @@ Brief discussion of load path and any observed twisting/warping tendencies
 
 ## Floating Bearing Mount:
 
+![](A11_bearing_dimensions.png)
+
 ### Dimension and Loaction Justification-
 
 Mounting Hole Location/Spacing-
