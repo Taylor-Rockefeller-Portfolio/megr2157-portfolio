@@ -144,7 +144,7 @@ Mounting Hole Diameter-
 The mounting hole diameter is 9mm to allow for proper a proper clearance fit with the [     ] fasteners.
 
 Bearing Hole Diameter- 
-The bearing hole diameter is 22.033mm to allow for the proper RC3 fit with the lead screw bearing. 
+The bearing hole diameter is 22.033mm to allow for the proper RC3 fit with the lead screw bearing outer diameter of 22mm. 
 
 ### Functional Tolerances-
 
