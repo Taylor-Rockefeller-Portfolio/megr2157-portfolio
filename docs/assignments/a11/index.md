@@ -225,11 +225,11 @@ Total Cost of Project: $1724.76
 
 | Person | Hours Worked | Cost($)/Hour | Cost($) | 
 | :---: | :---: | :---: | :---: | 
-| Taylor Rockefeller | X | 35 | 35*X | 36.40 |
-| Kadin Bittner | Y | 35 | 35*Y |
-|  |  | Total Cost: | 182.80 |
+| Taylor Rockefeller | 10 | 35.00 | 350.00 |
+| Kadin Bittner | 12 | 35.00 | 420.00 |
+|  |  | Total Cost: | 770.00 |
 
-Total Cost of Project: $XXX
+Total Cost of Project: $1724.76
 
 ## Resources
 
