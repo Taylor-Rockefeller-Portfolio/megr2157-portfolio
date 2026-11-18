@@ -173,7 +173,12 @@ Total Cost of Project: $XXX
 | 1 | 2 | Lead Screw | 18.20 | 36.40 | [Lead Screw](https://www.roton.com/product/acme-steel-screw-right-59284/) |
 | 2 | 2 | Nut | 23.57 | 47.14 | [Nut](https://www.roton.com/product/acme-bronze-threaded-mount-nut-right-90222/) |
 | 3 | 2 | Flange | 49.63 | 99.26 | [Flange](https://www.roton.com/product/flange-steel-flange-89838/) |
-|  |  |  | Total Cost: | 182.80 |  |
+| 4 | 4 | Guesset | 11.23 | 44.92 | [Gusset](http://8020.net/40-4334.html) |
+| 5 | 2 | Bearing | 26.50 | 53.00 | [Bearing](https://www.traceparts.com/en/product/motion-industries-radialdeep-groove-ball-bearing-6082rsh?CatalogPath=TRACEPARTS:TP01002001001002&Product=90-06092022-035185) |
+| 6 | 4 | Frame Member | 82.10/meter | 228.62 | [Frame Member](https://8020.net/40-4080.html) |
+| 7 | 2 | Motor | 71.00 | 142.00 | [Motor](http://www.moonsindustries.com/p/nema-23-high-precision-hybrid-stepper-motors/ms23haap4200-000004611110015320) |
+| 8 | 2 | Coupler | 151.71 | 303.42 | [Coupler](http://www.mcmaster.com/6446K782) |
+|  |  |  | Total Cost: | 954.76 |  |
 
 | Person | Hours Worked | Cost($)/Hour | Cost($) | 
 | :---: | :---: | :---: | :---: | 
