@@ -80,6 +80,8 @@
 
 ![](A11_bracket_math(2).png)
 
+![](A11_Frame_Bracket.png)
+
 ### Upper Beam FEA-
 
 #### Model Setup
@@ -87,6 +89,8 @@
 #### Meshing and Verification
 
 #### Results
+
+![](A11_FEA_top.png)
 
 Maximum von Mises stress and location
 
