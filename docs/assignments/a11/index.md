@@ -263,6 +263,8 @@ Total Cost of Project: $1724.76
 
 ### Assembly-
 
+![](A11_Assembly.png)
+
 ### Bill of Materials-
 
 | Item Number | Quantity | Name | Cost($)/Item | Cost($) | Purchase Link |
