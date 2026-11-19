@@ -102,7 +102,22 @@ If required the last mesh was decreased to the finest mesh used of 10mm.
 
 #### Results
 
-![](A11_FEA_top.png)
+![](A11_FEA_top(1).png)
+
+![](A11_FEA_top(2).png)
+
+![](A11_FEA_top(3).png)
+
+![](A11_FEA_top(4).png)
+
+![](A11_FEA_top(5).png)
+
+![](A11_FEA_top(6).png)
+
+![](A11_FEA_top(7).png)
+
+![](A11_FEA_top(8).png)
+
 
 ### Maximum von Mises Stress and Location
 The maximum von Mises stress decreased from **154.616 psi to 128.659 psi and finally 116.424 psi** across three simulations. This represents reductions of **16.79% and 9.51%**, respectively, with an overall reduction of **24.70%**. The upper horizontal beam and its loading connections were the primary areas of interest.
