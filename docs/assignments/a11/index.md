@@ -249,6 +249,12 @@ Total Cost of Project: $1724.76
 
 ### Designed Components-
 
+Download both links below
+
+[File Download 1](https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/a11/A11_files(1).zip)
+
+[File Download 2](https://github.com/Taylor-Rockefeller-Portfolio/megr2157-portfolio/raw/refs/heads/main/docs/assignments/a11/A11_files(2).zip)
+
 #### Crosshead
 
 ![](A10_crosshead_drawing.png)
