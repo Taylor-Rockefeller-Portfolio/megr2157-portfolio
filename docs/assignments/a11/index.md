@@ -236,9 +236,15 @@ Total Cost of Project: $1724.76
 
 #### Crosshead
 
+![](A10_crosshead_drawing.png)
+
 #### Motor Mount
 
+![](A11_motor_mount_drawing.png)
+
 #### Floating Bearing Mount
+
+![](A11_bearing_mount_drawing.png)
 
 ### Assembly-
 
